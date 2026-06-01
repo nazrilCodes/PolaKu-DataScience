@@ -1,0 +1,1186 @@
+Nama Makanan,Kategori,Ukuran Porsi,Kalori (kkal),Karbohidrat (g),Protein (g),Lemak (g),Glycemic Risk
+Nasi,Nasi,100,180,39.8,3,0.3,high
+Nasi tim,Nasi,100,120,26,2.4,0.4,high
+Bihun goreng instan,Lauk,100,381,80.3,6.1,3.9,
+"Bihun Jagung, mentah",Lauk,100,354,87.4,0.5,0.3,high
+"Jagung nasi, mentah",Lauk,100,357,79.5,8.8,0.5,low
+"Jagung muda, rebus",Lauk,100,142,30.3,5,0.7,low
+"Jagung kuning, tepung",Lauk,100,355,73.7,9.2,3.9,moderate
+"Jagung kuning pipil, rebus",Lauk,100,154,28.4,3.8,3.5,moderate
+"Jagung, tepung putih",Lauk,100,355,73.7,9.2,3.9,high
+"Ketan putih, tapai",Lauk,100,172,37.5,3,0.5,high
+"Maizena, tepung",Lauk,100,341,85,0.3,0,
+"Makaroni, mentah",Lauk,100,353,78.7,8.7,0.4,low
+Mi basah,Lauk,100,88,14,0.6,3.3,high
+Mi kering,Lauk,100,339,6.3,10,1.7,high
+Misoa,Lauk,100,345,78,8.5,2.2,
+Roti putih,Lauk,100,248,50,8,1.2,high
+Amparan tatak,Lauk,100,191,34,1.3,5.5,
+"Apang kukus, kue",Lauk,100,202,46.7,3,0.3,
+"Apem, kue",Snack,100,148,33.9,2,0.5,
+Biskuit,Lauk,100,458,75.1,6.9,14.4,high
+"Bakpia, kue",Snack,100,272,44.1,8.7,6.7,
+Bakwan,Snack,100,280,39,8.2,10.2,
+Bantal,Snack,100,190,43.5,3.3,0.3,
+Baruasa,Snack,100,417,79.3,6.5,8.2,
+Batar daan,Lauk,100,107,19.6,2.2,2.2,
+Bika ambon,Snack,100,199,44.4,2.1,1.5,
+Bingka,Snack,100,273,39.1,5.3,10.6,
+Bobengka,Snack,100,225,45.2,5.3,2.6,
+Bolu peca,Snack,100,197,35.6,3.3,4.6,
+Brem,Snack,100,249,58,3.4,0.4,
+Bubur tinotuan (Manado),Lauk,100,156,15.6,2.3,0.2,low
+Cake tape,Lauk,100,323,50.1,4.9,11.5,
+Cangkuning,Snack,100,204,31.4,2.8,7.5,
+Dodol bali,Snack,100,298,65.9,3.7,2.1,
+Dodol galamai,Snack,100,348,76.1,0.4,3.8,
+Dodol kedondong,Snack,100,331,63.8,1.9,7.6,
+Dodol manado,Snack,100,373,51.9,4.3,16.5,
+Emping beras,Snack,100,403,85.3,10.6,2.2,
+Gemblong,Snack,100,274,55.5,1.7,5.4,
+Gendar goreng,Snack,100,407,32,6.4,28.2,
+Intip goreng,Snack,100,474,62.3,7.6,21.6,
+Jagung gerontol,Lauk,100,156,33.3,2.7,1.3,low
+Jagung titi,Snack,100,374,79.1,9.4,2.2,low
+Japilus,Snack,100,500,67.3,1.2,25.1,
+Kakicak,Snack,100,296,36.7,3.4,15.1,
+Kambose,Lauk,100,164,32.6,3,2.4,
+Kapusa,Lauk,100,158,27.8,4.4,3.2,
+Keddo bodong,Snack,100,290,55.2,4.6,5.7,
+"Kelepon, kue",Snack,100,215,41.8,3.7,3.7,
+Kereput,Snack,100,580,51.1,4.8,39.6,
+Ketoprak,Lauk,100,153,13,7.9,7.7,
+Ketupat kandangan,Lauk,100,109,13.4,2.2,5.2,
+Koya,,100,366,77.5,4.2,4.3,
+Koya mirasa,,100,370,82.2,8,1,
+Koyabu,Snack,100,241,47.2,3.4,4.3,
+Kue ali,Snack,100,440,64.5,3.8,18.5,
+Kue bangen,Snack,100,442,74.2,3.3,14.7,
+Kue gelang,Snack,100,448,70,5.8,16.1,
+Kue jahe,Snack,100,425,84.6,1.6,8.8,
+Kue kelapa,Snack,100,591,47.5,5.6,42.1,
+Kue koa,Snack,100,340,79.3,4.8,0.4,
+Kue ku temu,Snack,100,214,49.6,3.5,0.2,
+Kue lumpur,Snack,100,291,44.1,3.6,11.1,
+Kue pelita,Snack,100,141,17.6,5.3,5.5,
+Kue putu cangkir,Snack,100,304,54.9,5.3,7,
+Kue sus,Snack,100,221,24.8,7.5,10.2,
+Kue thipan,Snack,100,247,49.5,2.9,4.2,
+Laksa/Putu mayang,Snack,100,121,21.1,1.7,3.4,
+Lapis legit,Snack,100,389,55.5,6.6,15.7,
+Lupis ketan,Snack,100,164,34.5,1.8,2.1,high
+Manan samin,Snack,100,379,50.6,3.4,18.1,
+Martabak india,Lauk,100,153,24.3,4.5,4.2,
+Martabak mesir,Lauk,100,278,45,5.1,8.6,
+Masekat,Snack,100,369,74.1,2.1,7,
+Mie aceh rebus,Lauk,100,113,18.1,3,3.2,
+Mie ayam,Lauk,100,102,10.5,6.2,3.9,
+Mie bakso,Lauk,100,114,16.4,5.3,3,
+Mie celon,Lauk,100,102,17.8,3,2.1,
+Mie pangsit basah,Lauk,100,105,9.4,5.9,4.9,
+Nasi gemuk,Lauk,100,192,24.4,3.8,8.8,high
+onde onde,Snack,100,,,,,
+Nasi gurih,Lauk,100,190,26,4.7,7.5,high
+Nasi minyak,Lauk,100,207,37.1,3.5,5,high
+Nasi rames,Lauk,100,155,19.1,10.3,4.2,high
+Nopia spesial,Snack,100,387,74.3,5.3,7.6,
+Onde-onde,Snack,100,336,57.9,4,9.8,
+Padamaran,Snack,100,171,18.8,3.9,8.9,
+Pastel,Snack,100,307,42.4,4.5,13.3,
+Pulut,Snack / Lauk,100,216,44.4,2.6,3.1,
+Pundut nasi,Lauk,100,104,15.1,1.9,4.1,high
+Putri hijau,Snack,100,189,37.2,5.4,2.1,
+Putri selat,Snack,100,163,23.8,2.2,6.5,
+Putu sopa,Snack,100,215,41.1,3.3,4.1,
+Renggi goreng,Snack,100,471,64.1,4.7,21.8,
+Roti warna sawo matang,Snack,100,249,49.7,7.9,1.5,
+Sarimuka,Snack,100,166,32.9,2.3,2.8,
+Spaghetti,Lauk,100,139,22.6,7.4,2.1,
+Srikaya ketan,Snack,100,265,49.1,2.7,6.4,high
+Sunduk lawang,Snack,100,181,32.4,1.9,1.3,
+Suwir-suwir,Snack,100,347,84.2,0.5,0.9,
+Tipa-tipa,Snack,100,355,79.8,6.2,1.2,
+Wajit camilan,Snack,100,303,63.3,6.3,2.7,
+Widaran,Snack,100,424,80.7,1.3,10.7,
+Wingko babat,Sanck,100,355,51.4,3.2,15.1,
+Yangko,Snack,100,254,58.1,3,1.1,
+"Arrowroot, segar",Lauk,100,102,24.1,1,0.2,
+"Batatas gembili, segar",Lauk,100,76,16,1.1,0.9,
+"Batatas kelapa, ubi, segar",Lauk,100,89,21,1.1,0.1,
+"Belitung, talas, segar",Lauk,100,145,34.2,1.2,0.4,
+"Bengkuang, segar",Lauk,100,59,12.8,1.4,0.2,
+"Bentul (Komba), talas, segar",Lauk,100,98,20.9,1.6,0.7,
+"Gadeng/Gadung, kering",Lauk,100,322,76.6,2.4,0.6,
+"Gadung, ubi, segar",Lauk,100,100,23.5,0.9,0.3,
+"Ganyong, segar",Lauk,100,77,18.4,0.6,0.2,
+"Gembili, ubi, segar",Lauk,100,131,31.3,1.1,0.2,
+"Hofa/Ubi hutan, segar",Lauk,100,127,29.5,1.2,0.5,
+"Kaburan, ubi, segar",Lauk,100,133,32.2,1,0.2,
+"Kentang, segar",Lauk,100,62,13.5,2.1,0.2,
+"Kentang hitam, segar",Lauk,100,142,33.7,0.9,0.4,
+"Keribang, ubi, segar",Lauk,100,137,29.8,1.3,1.1,
+"Ketela pohon/ singkong, segar",Lauk,100,154,36.8,1,0.3,low
+Lepok/Ubi rumput,Lauk,100,181,39.8,2.8,1.2,
+"Sagu aren, kering",Lauk,100,355,85.6,0.6,1.1,
+"Sagu aren, segar",Lauk,100,231,56.6,0.6,0.2,
+Sagu kasbi segar,Lauk,100,230,56.5,0.6,0.2,
+Sagu lempeng,Lauk,100,347,85.2,0.9,0.3,
+"Sagu singkong, kering",Lauk,100,362,86.9,0.5,0.3,low
+"Sente, talas, segar",Lauk,100,353,84.7,0.7,0.2,
+"Suweg, talas, segar",Lauk,100,74,17.2,1.4,0.1,
+"Talas bogor, segar",Lauk,100,108,25,1.4,0.4,
+"Talas pontianak, segar",Lauk,100,163,36.4,2.3,0.5,
+"Talas viqueque, segar",Lauk,100,115,25.9,1.8,0.5,
+"Ubi jalar, kuning, segar",Lauk,100,119,25.1,0.5,0.4,moderate
+"Ubi jalar manis, segar",Lauk,100,83,18.8,1.5,0.2,moderate
+"Ubi jalar merah, segar",Lauk,100,151,35.4,1.6,0.3,moderate
+"Ubi jalar putih, segar",Lauk,100,88,20.6,0.4,0.4,moderate
+Ubi jalar tinta/ kemayung,Lauk,100,108,25.6,0.5,0.4,moderate
+"Umbi Uwi, segar",Lauk,100,120,82.3,2.8,0.5,
+"Batatas kelapa, ubi, bakar",Lauk,100,110,23.4,1.4,1.1,
+"Batatas kelapa, ubi, kukus",Lauk,100,92,21,1.2,0.3,
+"Batatas tali, ubi, rebus",Lauk,100,182,42.2,2.4,0.4,
+"Belitung, talas, kukus",Lauk,100,145,34.2,1.2,0.4,
+"Bentul, talas, kukus",Lauk,100,71,15.4,2.3,0.3,
+"Gadung, ubi, kukus",Lauk,100,88,20.9,0.6,0.3,
+"Ganyong, rebus",Lauk,100,100,23.8,0.8,0.2,
+Ketela pohon/ singkong kukus,Lauk,100,153,36.4,1.2,0.3,low
+"Suweg, talas, kukus",Lauk,100,93,21.9,1.5,0.1,
+"Talas bogor, kukus",Lauk,100,120,28.2,1.5,0.3,
+"Ubi jalar, kuning, kukus",Lauk,100,100,23.8,0.7,0.3,moderate
+Ubi jalar tinta/ kemayung kukus,Lauk,100,165,39.8,0.9,0.2,moderate
+Bagea kelapa asin,Snack,100,450,78.1,3.2,13.9,
+Bagea kelapa manis,Snack,100,452,80.6,1.3,13.8,
+Bagea kenari asin,Snack,100,529,63.6,3.2,29.1,low
+Bagea kenari manis,Snack,100,523,64.2,3.2,28.2,low
+Bagea kw 1,Snack,100,416,76.3,6.5,9.4,
+Bagea kw 2,Snack,100,382,87.2,0.3,3.5,
+Beras Cerdas,Nasi,100,350,82.3,2.7,1.1,
+Beras ganyong,Nasi,100,364,86.3,3.4,0.7,
+Beras Siger,Nasi,100,344,28.3,1.1,0.2,
+Biji nangka/Biji salak,Lauk,100,262,51.1,2.3,5.4,
+Bubur sagu,Lauk,100,167,33,0.2,4,low
+Cassavastick,Snack,100,460,17.2,0.8,18.7,
+Ceriping getuk singkong,Snack,100,462,67.7,1.2,20.7,
+Gatot,Snack,100,347,83.8,1.3,0.7,
+Geblek,Snack,100,195,44.4,0.4,1.7,
+Getuk goreng,Snack,100,360,74.3,1.3,6.4,
+Getuk singkong,Snack,100,204,47.4,0.5,1.4,low
+Gurandil,Snack,100,218,48.5,0.5,2.5,
+Kabuto,Snack,100,250,35.4,2.6,2.5,
+Kapurung,Nasi,100,41,7.8,2,0.3,
+Kecimpring singkong goreng,Snack,100,464,73,1.2,18.6,
+Keremes,,100,475,64.4,1.6,25.2,
+Keripik gadung,Snack,100,446,76,2.8,14.5,high
+Keripik kentang,Snack,100,448,67.1,2.7,18.8,high
+Keripik singkong,Snack,100,478,72,0.9,20.7,high
+Keripik singkong berbumbu,Snack,100,481,73.6,2.2,19.7,high
+Keripik ubi,Snack,100,486,67.6,0.2,23.9,high
+Kerupuk cumi goreng,Snack,100,444,71.3,6.9,14.6,high
+Kerupuk kemplang (ikan) mentah,Snack,100,325,78.5,1.8,0.4,high
+Kerupuk kemplang goreng,Snack,100,504,57.1,5.6,28.1,high
+Kerupuk kemplang panggang,Snack,100,356,76.9,9.7,1.1,high
+Kerupuk mie kuning goreng,Snack,100,476,71.3,0.1,21.1,high
+Kerupuk udang goreng,Snack,100,477,68.5,4.7,20.5,high
+Kue bangket,Snack,100,338,80.3,1.5,1.2,
+Kue putu singkong,Snack,100,217,53.2,1.2,0.5,low
+Lanting getuk,Snack,100,422,80.4,0.9,10.8,
+Mi golosor,Lauk,100,71,15.9,0.2,0.8,
+Mie Bendo,Lauk,100,353,88,0.3,0,
+Mie Sagu,Lauk,100,190,46.5,0.2,0.4,
+Ongol-ongol sagu,Snack,100,111,21.2,0.3,2.7,
+Oyek,Snack,100,351,84.9,0.9,0.9,
+Papeda,Lauk,100,61,14.9,0.2,0.1,
+Rasbi (Beras Ubi),Nasi,100,394,76.6,2.2,8.8,
+Rasi (Beras Singkong),Nasi,100,350,85.7,0.9,0.4,low
+Sagu forno,Snack,100,291,63.4,0.5,4,
+Sagu Lemak (Kue Sagon),Snack,100,452,76.8,2.8,14.8,
+Sagu manis,Snack,100,287,62.4,0.5,3.9,
+Sagu Rendang,Snack,100,364,90.5,0.1,0.2,
+Sagu sinole,Snack,100,354,68.9,0.8,8.3,
+Serimping talas kebumen,Snack,100,478,69.2,2.5,21.2,
+Tapai singkong,Snack,100,169,40.2,1.4,0.3,low
+Tiwul,Masakan,100,353,83.4,2.4,1.1,
+Tiwul Instan,Masakan,100,395,76.5,3.2,8.5,
+Ubi Cilembu,Lauk,100,186,44.3,1.9,0.2,
+Uli batatas,Snack,100,150,27.4,1.1,4,
+"Batagor, batagor",Lauk,100,165.7,16.7,5.9,8.5,high
+"Kenari banda, kering",Snack,100,616,13.7,13.9,56.2,
+"Kenari, kering",Snack,100,657,13,15,66,
+"Komak polong, segar",Lauk,100,99,21.2,3.3,0.1,
+"Koro andong, kering",Lauk,100,356,61.6,20.5,4.1,
+"Koro benguk, biji, kering",Lauk,100,332,55,24,3,
+"Koro kerupuk, biji, segar",Lauk,100,125,22.1,8.3,0.7,
+"Koro loke, biji, segar",Lauk,100,33,7.9,2.7,0.2,
+"Koro roay, kering",Lauk,100,344,69.4,12.5,2.1,
+"Koro wedus, biji, kering",Lauk,100,338,61,22.2,1.5,
+"Lamtoro biji, muda, segar",Lauk,100,85,15.4,5.7,0.3,
+"Lamtoro biji, tua, segar",Lauk,100,148,26.2,10.6,0.5,
+"Lamtoro var, gung tanpa kulit",Lauk,100,367,32.5,46.4,5.4,
+"Lamtoro var, lokal dengan kulit",Lauk,100,336,59.7,23.8,1.2,
+"Nangka, biji, segar",Snack,100,165,36.7,4.2,0.1,low
+"Saga merah terkupas, mentah",Lauk,100,449,31.9,30.6,25.5,
+"Kacang belimbing, rebus",Snack,100,204,17.5,16.9,8.8,low
+"Kacang bogor, goreng",Snack,100,479,58.9,12.7,23.2,
+"Kacang bogor, rebus",Snack,100,161,27.1,7.7,2.8,
+"Kacang gude, rebus",Snack,100,147,27.5,9,0.5,
+"kacang hijau, rebus",Snack,100,109,18.3,8.7,0.5,
+"Kacang kedelai, goreng",Snack,100,521,22.9,32.2,37.7,
+"Kacang kedelai, rebus",Snack,100,189,12.7,20.2,8.2,
+"Kacang merah kering, rebus",Snack,100,158,28.2,10.3,0.9,
+"Kacang merah segar, rebus",Snack,100,144,24.7,10,1,
+"Kacang mete/biji jambu monyet, goreng",Snack,100,629,19.8,20.4,56.3,
+Kacang tanah rebus dg kulit,Snack,100,360,12.8,13.5,31.2,
+"Kacang tanah, goreng",Snack,100,564,25.5,25.5,44.4,
+"Kacang tanah, rebus",Snack,100,220,8,10.6,18,
+"Kacang tolo, rebus",Snack,100,138,22.6,10.7,1.1,
+Ampas kacang hijau,Lauk,100,96,19.1,3.7,0.6,
+"Ampas tahu, mentah",Lauk,100,67,8.1,5,2.1,
+Ampas tahu kukus,Lauk,100,75,10.7,4.1,2.1,
+"Ampas tahu, kering",Lauk,100,414,41.3,26.6,18.3,
+Pepea oncom ampas tahu,Lauk,100,76,10.6,5.2,1.8,
+Bungkil biji karet,Lauk,100,333,50,29.3,3.3,
+Bungkil kacang tanah,Lauk,100,336,30.5,37.4,13,low
+Bungkil kelapa,Lauk,100,368,40,23,15,
+Dodol banjarmasin,Snack,100,368,70,2.6,8.6,
+Emping (kerupuk melinjo),Snack,100,345,71.5,12,1.5,high
+Emping komak,Snack,100,355,60.7,17.8,4.6,
+Enting-enting gepuk hello kity,Snack,100,538,52.6,13.6,30.3,
+Enting-enting gepuk kacang tanah,Snack,100,524,52,13.3,29.2,low
+Enting-enting wijen,Snack,100,565,36.8,18.2,38.4,
+Geplak,Snack,100,350,53.6,1.4,14.4,
+Geplak jahe,Snack,100,462,57.7,3.1,24.4,
+Kacang atom,Snack,100,533,28.8,27.8,38.1,low
+Kacang goyang,Snack,100,516,44.4,14.7,31.1,low
+Kacang negara,Snack,100,480,58.5,18.4,19.1,low
+Kacang sukro,Snack,100,484,57.7,8.8,26.1,low
+Kacang tanah sari,Snack,100,561,26,25.5,43.8,low
+Keju kacang tanah (peanut butter),Snack,100,590,20.9,27,49,
+Kembang tahu,Lauk,100,380,23.3,48.9,13.8,
+Kembang tahu rebus,Lauk,100,90,4.7,10.7,4,
+Keripik oncom,Snack,100,598,42.6,8.3,43.8,high
+Keripik tempe,Snack,100,581,41.7,12.1,40.6,high
+Keripik tempe abadi besar,Snack,100,556,39.8,15.8,37.1,high
+Keripik tempe abadi murni,Snack,100,542,11.6,40.3,42.4,high
+Keripik tempe abadi sedang,Snack,100,510,52.4,12.3,27.9,high
+Keripik tempe abadi telur,Snack,100,529,40.2,20.8,31.7,high
+Kerupik tempe abadi prima,Snack,100,540,42,16.7,33.9,high
+Kwaci,Snack,100,515,13.8,30.6,42.1,
+Melinjo emping tebal goreng manis,Snack,100,439,65.7,10,16.4,
+"Melinjo emping tebal, goreng asin",Snack,100,431,63,11.1,16.2,
+Melinjo emping tipis goreng,Snack,100,485,59.1,11.5,24.5,
+Moon tahu,Lauk,100,128,1.3,8,10,
+Oncom,Lauk,100,187,22.6,13,6,low
+Oncom ampas kacang hijau,Lauk,100,376,65.7,14.9,6,low
+Oncom kacang hijau + singkong,Lauk,100,351,65.9,11,5.3,low
+Oncom kacang tanah pepes,Lauk,100,132,13.7,12.7,3.8,low
+Rempeyek kacang tanah,Snack,100,513,44.3,17.5,32.5,high
+Rempeyek kacang tolo,Snack,100,451,59.7,11.2,20.2,high
+Rempeyek kacang uci,Snack,100,497,50.8,17,27.6,high
+Sayur lebui,Lauk,100,64,12.5,2.1,0.6,low
+"Saridele, bubuk",Minuman,100,344,43,30,20,
+Susu kedelai,Minuman,100,41,5,3.5,2.5,
+"Tahu, mentah",Lauk,100,80,0.8,10.9,4.7,
+Tahu goreng,Lauk,100,115,2.5,9.7,8.5,
+Tahu telur,Lauk,100,328,24.6,12.6,19.9,low
+Takwa,Lauk,100,148,4,13.8,8.5,
+Tauco,Lauk,100,184,22.2,11.4,5.5,
+"Tauco cap beruang, cake",Lauk,100,347,67.6,7.4,5.2,
+"Tauco cap DAS, cake",Lauk,100,358,70.4,7.5,4.3,
+Tauco cap meong,Lauk,100,159,21.3,7.4,4.9,
+Tauji cap singa,Lauk,100,277,49.6,9.1,4.7,
+Tempe bongkrek,Lauk,100,119,18.3,4.4,3.5,
+Tempe gembus P3G,Lauk,100,73,10.3,5.7,1.3,
+Tempe gembus yogya,Lauk,100,76,10.6,6.8,0.7,
+Tempe kacang babi,Lauk,100,139,21.9,12.5,0.8,low
+Tempe kacang belimbing,Lauk,100,212,12.9,17.5,10,low
+Tempe kedelai + jagung,Lauk,100,143,11.4,12,5.5,low
+"Tempe kedelai murni, goreng",Lauk,100,350,10.4,24.5,26.6,
+"Tempe kedelai murni, mentah",Lauk,100,201,13.5,20.8,8.8,
+Tempe koro benguk,Lauk,100,141,23.2,10.2,1.3,
+Tempe lamtoro,Lauk,100,128,21.3,10.7,0.5,
+"Tempe lamtoro var, gung dengan kulit",Lauk,100,146,19.6,11.7,2.3,
+"Tempe lamtoro var, gung tanpa kulit",Lauk,100,131,13,18,0.8,
+Tempe pasar,Lauk,100,150,9.1,14,7.7,
+Tempe pasar goreng,Lauk ,100,336,7.8,20,28,
+Tepung hunkwe (pati kacang ijo),Lauk,100,364,83.5,4.5,1,low
+Tepung Jalejo,Lauk,100,388,61.2,19,7.5,
+Tepung kacang kedelai,Lauk,100,347,29.9,35.9,20.6,low
+"Bayam, kukus",Lauk,100,30,5.8,1.3,0.7,
+"Bayam ,rebus",Lauk,100,23,3.7,1.2,0.6,
+"Buncis, rebus",Lauk,100,30,6.4,2.2,0.2,
+"Daun kacang panjang, kukus",Lauk,100,40,8,3.7,0.3,low
+"Daun katuk, rebus",Lauk,100,53,9.1,5.3,0.9,low
+"Daun kelor, rebus",Lauk,100,61,10,6.1,0.9,low
+"Daun mengkudu, kukus",Lauk,100,63,11.5,3.8,1.5,low
+"Daun singkong, rebus",Lauk,100,31,4.8,3.7,0.6,low
+"Daun talas, rebus",Lauk,100,27,5.9,1.3,0.2,low
+"Daun ubi merah, kukus",Lauk,100,56,13,3.1,0.3,low
+"Kacang panjang ,kukus",Lauk,100,39,7.6,3,0.6,low
+"Kacang panjang, rebus",Lauk,100,30,5.8,2.3,0.4,low
+"Kangkung, kukus",Lauk,100,30,4.7,3.2,0.7,
+"Kangkung, rebus",Lauk,100,22,3.1,2.5,0.6,
+"Paria putih, kukus",Lauk,100,16,3.4,0.8,0.2,
+"Selada, rebus",Lauk,100,19,2.9,2.7,0.2,low
+"Taoge, goreng",Lauk,100,88,14,3.2,2.1,
+"Taoge, seduh",Lauk,100,28,4,3,0.8,
+"Terung panjang, kukus",Lauk,100,23,4.9,1.8,0.1,
+"Wortel, rebus",Lauk,100,28,6.3,0.7,0.5,low
+"Wortel, kukus",Lauk,100,37,8.3,1,0.6,low
+"Asinan Bogor, sayuran",Lauk ,100,98,14.8,3.9,2.6,low
+"Anyang, sayur",Lauk,100,126,10.3,3.4,7.9,low
+"Ares, sayur",Lauk,100,113,11.2,0.9,7.2,low
+Arwan sirsir,Lauk,100,277,10.7,2.4,25,
+Beberuk,Lauk,100,65,3.5,1.1,5.2,
+Botok lamtoro,Lauk,100,186,13,11.7,9.7,
+Buntil daun talas,Lauk,100,141,8,4.4,10.2,low
+Cammetutu,Lauk,100,102,8.7,3.2,6,
+"Cap cai, sayur",Lauk,100,97,4.2,5.8,6.3,low
+Gado-gado,Lauk,100,137,21,6.1,3.2,
+"Gudeg, sayur",Lauk,100,160,16,3.3,9.2,
+Gulai pakis,Lauk,100,143,6,4,11.4,
+Gulai pliek,Lauk,100,176,3.2,7.3,14.9,
+Kadada katembe,Lauk,100,110,7.1,4.5,6.9,
+"Kaparende, sayur",Lauk,100,38,2.6,2.4,2,
+"Karedok, sayur",Lauk,100,92,14.1,2.2,3.3,low
+Keripik bayam,Snack,100,586,50.2,4.9,40.6,high
+Kotiu hinela tawang nggole,Lauk,100,46,6,2.2,1.5,
+Lema/ Rebung asam,Lauk,100,15,1.9,1,0.4,
+Lilin bungkus gedi,Snack,100,79,5.8,2.3,5.2,
+Olah-olah,Lauk,100,9,7.1,2.1,6,
+Paku hinela wulelenggapaya,Lauk,100,77,5.4,3.5,4.6,
+Pelecing kangkung,Lauk,100,75,10,2.5,2.8,
+Purundawa,Lauk,100,25,3.6,1.5,0.5,
+Rujak cingur,Lauk,100,153,8,11.3,8.4,
+Sayur asem,Lauk,100,29,5,0.7,0.6,low
+Sayur bunga pepaya,Lauk,100,49,9.8,1.7,0.3,low
+Sayur garu,Lauk,100,178,10.6,2.6,13.9,low
+Sayur kohu-kohu,Lauk,100,133,11.2,7.3,6.6,low
+Sayur lilin-terubuk,Lauk,100,36,4.8,2.7,0.7,low
+Sayur ndusuk,Lauk,100,49,3.6,3.1,2.5,low
+Sayur sop,Lauk,100,27,1,1.3,2,low
+Sayur umbut kelapa,Lauk,100,67,5.1,5.2,2.9,low
+Sayur umbut rotan,Lauk,100,57,3.1,5.4,2.6,low
+Shabu-shabu,Lauk,100,88,0.8,3.2,8,
+Semur jengkol,Lauk,100,212,29.1,6,10,
+Tinira ninahu nggaluku,Lauk,100,33,4.1,1.2,1.3,
+Tumis bayam bersantan,Lauk,100,48,2.6,1.4,4.2,
+Waluh balamak,Lauk,100,45,8.1,0.8,0.9,
+Woku ubi,Lauk,100,143,15,3.1,7.8,
+"Alpukat, segar",Snack,100,85,7.7,0.9,6.5,low
+"Anggur hutan, segar",Snack,100,30,6.8,0.5,0.2,low
+"Apel malang, segar",Snack,100,57,12.8,0.5,0.4,low
+"Apel, segar",Snack,100,58,14.9,0.3,0.4,low
+"Arbai, segar",Snack,100,37,8.3,0.8,0.5,
+"Belimbing, segar",Snack ,100,31,6.7,1,0.4,
+"Biwah, segar",Snack,100,51,12.1,0.3,0.1,
+"Buah atung, segar",Snack,100,23,5.2,0.8,0.2,
+"Buah kelenting, segar",Snack,100,110,21.4,1.4,2.1,
+"Buah kom, segar",Snack,100,264,59.6,4,1.1,
+"Buah mentega (Bisbul), segar",Snack,100,39,9.7,0.7,0.2,
+"Buah Naga Merah, segar",Snack,100,71,9.1,1.7,3.1,
+"Buah Naga Putih, segar",Snack,100,56,10.9,0.8,1,
+"Buah negri, segar",Snack,100,55,12.2,1.2,0.1,
+"Buah nona, segar",Snack,100,101,25.2,1.7,0.6,
+"Buah rotan, segar",Snack ,100,78,18.2,0.6,0.3,
+"Buah rukam, segar",Snack,100,113,26.8,0.8,0.3,
+"Buah ruruhi, segar",Snack,100,29,3.6,2.1,0.7,
+"Buah tuppa, segar",Snack,100,67,15.9,0.4,0.2,
+"Carica papaya, segar",Lauk,100,24,3.7,1.9,0.2,
+"Cempedak, segar",Lauk,100,116,28.6,3,0.4,
+"Duku, segar",Snack,100,63,16.1,1,0.2,
+"Durian, segar",Snack,100,134,28,2.5,3,
+"Duwet, segar",Snack,100,80,18.2,0.5,0.6,
+"Embacang, segar",Lauk,100,98,25.4,1.4,0.2,
+"Encung asam, segar",Snack,100,122,17.5,3.5,4.5,
+"Erbis, segar",Snack,100,70,18.9,0.6,0,
+Gandaria masak,Lauk,100,68,18,0.7,0.1,
+"Gatep, segar",Snack,100,191,39.7,4.5,1.5,
+"Jambu air, segar",Snack,100,46,11.8,0.6,0.2,low
+Jambu biji,Snack,100,49,12.2,0.9,0.3,low
+Jambu bj putih tdk brbj,Snack,100,61,15.4,0.9,0.3,low
+"Jambu bol, segar",Snack,100,49,9.6,2.3,0.2,low
+"Jambu monyet, segar",Snack ,100,64,15.8,0.7,0.6,low
+"Jeruk bali, segar",Snack,100,48,12.4,0.6,0.2,low
+"Jeruk banjar, segar",Snack,100,61,14.1,0.8,0.2,low
+Jeruk garut-keprok,Snack,100,44,10.9,0.8,0.3,low
+"Jeruk Kalamansi, segar",Lauk,100,39,8.9,0.3,0.3,low
+"Jeruk manis, segar",Snack,100,45,11.2,0.9,0.2,low
+"Jeruk nipis, segar",Lauk,100,44,10,0.5,0.2,low
+"Jeruk ragi, segar",Snack,100,49,11.1,0.7,0.2,low
+"Kawista, segar",Snack ,100,120,20.8,3.5,2.5,
+"Kedondong masak, segar",Lauk,100,46,10.3,1,0.1,
+"Kedondong, segar",Lauk,100,47,10.4,0.5,0.2,
+"Kelapa hutan, kering",Lauk,100,623,36.5,2,52.1,low
+"Kelapa muda, daging, segar",Snack,100,68,14,1,0.9,low
+"Kemang, segar",Lauk,100,48,11.9,1,0.2,
+"Kesemek, segar",Snack,100,78,20,0.8,0.4,
+"Kokosan, segar",Snack,100,86,13,1.6,0.2,
+"Kranji, segar",Snack,100,315,73.5,2.1,1.4,
+"Langsat, segar",Snack,100,56,14.3,0.9,0.2,
+"Lemon, segar",Lauk,100,34,6.2,0.5,0.8,low
+"Lontar, segar",Snack,100,27,6,0.4,0.2,
+"Mangga, segar",Snack,100,52,12.3,0.7,0,moderate
+"Mangga benggala, segar",Snack,100,63,12.4,2.4,0.4,moderate
+"Mangga gedung, segar",Snack,100,44,11.2,0.7,0.2,moderate
+"Mangga golek, segar",Snack,100,63,16.7,0.5,0.2,moderate
+"Mangga harumanis, segar",Snack,100,46,11.9,0.4,0.2,moderate
+"Mangga indramayu, segar",Snack,100,72,18.7,0.8,0.2,moderate
+"Mangga kopek, segar",Snack,100,56,14.6,0.4,0.2,moderate
+"Mangga kwini, segar",Snack,100,86,19.8,0.7,0.5,moderate
+"Mangga manalagi, segar",Snack,100,133,32.1,1,0.1,moderate
+"Mangga muda, segar",Snack ,100,59,15.1,0.5,0.4,moderate
+"Manggis, segar",Snack,100,63,15.6,0.6,0.6,
+"Markisa, segar",Snack,100,144,29.8,3.5,1.2,low
+"Matoa, segar",Snack,100,90,21.1,1.2,0.1,
+"Melon, segar",Snack,100,37,7.8,0.6,0.4,moderate
+"Menteng, segar",Snack,100,65,16.1,1.7,0.3,
+"Nanas palembang, segar",Snack ,100,58,13.3,0.7,0.2,low
+"Nanas, segar",Snack ,100,40,9.9,0.6,0.3,low
+"Nangka masak pohon, segar",Lauk,100,106,27.6,1.2,0.3,
+"Pala, daging, segar",Lauk,100,42,10.9,0.3,0.2,
+"Pepaya, segar (Papaya, fresh)",Snack,100,46,12.2,0.5,0.1,moderate
+"Pisang ambon, segar",Snack,100,108,24.3,1,0.8,low
+"Pisang angleng (pisang ampyang), segar",Snack,100,68,17.2,1.3,0.2,low
+"Pisang ayam, segar",Snack,100,120,26.8,1.1,0.2,low
+"Pisang gapi, segar",Snack,100,131,31.1,1.6,0.1,low
+"Pisang goroho, segar",Lauk,100,119,27.9,1.5,0.2,low
+"Pisang hijau, segar",Snack,100,121,28.9,1,0.1,low
+"Pisang kayu, segar",Snack,100,100,23.6,1.4,0.5,low
+"Pisang kepok, segar",Snack,100,109,26.3,0.8,0.5,low
+"Pisang ketip, segar",Snack,100,145,34.5,1.1,0.3,low
+"Pisang kidang, segar",Snack,100,96,22.5,1,0.2,low
+"Pisang lampung, segar",Snack,100,99,25.6,1.3,0.2,low
+"Pisang mas bali ampenan, segar",Snack,100,92,21,1.4,0.2,low
+"Pisang mas bali kopang, segar",Snack,100,127,31.8,1.4,0.2,low
+"Pisang mas, segar",Snack,100,127,33.6,1.4,0.2,low
+"Pisang raja sereh, segar",Snack,100,108,28.2,1.3,0.3,low
+"Pisang raja, segar",Snack,100,120,31.8,1.2,0.2,low
+"Pisang ua, segar",Snack,100,128,30.2,0.8,0.5,low
+"Pisang uli, segar",Snack,100,134,35.5,1.1,0.5,low
+"Purut, segar",Lauk,100,76,15.2,4.1,1.1,
+"Rambutan binjai, segar",Snack,100,76,18,0.5,0.2,
+"Rambutan, segar",Snack,100,69,18.1,0.9,0.1,
+"Salak bali, segar",Snack,100,57,13.6,0.5,0.1,
+"Salak medan, segar",Snack,100,55,12.8,0.4,0.2,
+"Salak pondoh, segar",Snack,100,87,20.1,0.8,0.4,
+"Salak, segar",Snack,100,77,20.9,0.4,,
+"Sawo duren, segar",Snack,100,64,8,1,3.1,
+"Sawo kecik, segar",Snack,100,111,21.6,0.9,2.3,
+"Sawo Manila, segar",Snack,100,92,22.4,0.5,1.1,
+"Semangka, segar",Snack,100,28,6.9,0.5,0.2,high
+"Sirsak, segar",Snack,100,65,16.3,1,0.3,
+"Sowa, segar",Snack,100,48,9.1,1.6,0.6,
+"Srikaya, segar",Snack,100,63,13.9,1.1,0.5,
+"Sukun muda, segar",Lauk,100,119,28.1,1.4,0.2,moderate
+"Sukun tua, segar",Lauk,100,126,24.5,1.6,0.2,moderate
+"Vigus, segar",Snack,100,44,8.3,2.4,0.1,
+"Wani, segar",Lauk,100,74,17.1,0.8,0.3,
+Keripik lampung,Snack,100,485,69.7,1.7,22.2,high
+Ledre pisang,Snack,100,405,84.9,4.8,5.1,low
+Lempog durian,Snack,100,320,63.7,3.5,5.7,
+Loka anjoro,Snack,100,163,30,1.1,4.3,
+Rica-rica taipa,Lauk,100,49,10,1.6,0.3,
+Rujak aceh,Snack,100,82,19.7,0.4,0.3,
+Sale kesemek,Snack,100,296,71.4,1.1,0.6,
+Sale pisang siam,Snack,100,281,66.1,2.4,0.7,
+"Sale pisang, cilacap",Snack,100,295,66.9,2.3,2.1,
+Sanggara belanda,Snack,100,242,38.2,6.4,7.1,
+Tepung Pisang,Lauk,100,338,80.6,2.9,0.4,
+Tepung Sukun,Lauk,100,353,84.4,2.9,0.5,moderate
+"Ayam, ampela, goreng",Masakan,100,270,9.9,32.3,11.2,low
+"Ayam, usus, goreng",Masakan,100,473,13.9,45.2,26.3,low
+"Bebek, daging, goreng",Masakan,100,300,4.5,24,20.7,
+"Buaya, daging, dendeng, mentah",Lauk,100,365,30.8,49.6,4.8,
+Ham,Lauk,100,384,0.3,16.9,35,low
+"Itik alabio, daging, dendeng, mentah",Lauk,100,496,18.4,30.3,33.5,
+Kerupuk urat,Lauk,100,588,1.2,53.7,40.9,high
+"Menjangan, daging, dendeng, mentah",Lauk,100,322,22.7,55.8,2,
+"Punai, daging, goreng",Lauk,100,224,4.4,26.2,11.3,
+"Rusa, daging, dendeng, mentah",Lauk,100,536,0,40.5,41.5,
+"Sapi, abon",Lauk,100,212,59.3,18,10.6,
+"Sapi, abon, asli",Lauk,100,358,38.6,14.6,16.1,
+"Sapi, daging, asap",Lauk,100,182,0,32,6,low
+"Sapi, daging, dendeng, mentah",Lauk,100,301,0,55,9,low
+"Sapi, daging, kornet",Lauk,100,289,0,16,25,low
+"Sapi, daging, sosis (Worst)",Lauk,100,448,2.3,14.5,42.3,low
+"Sapi, hati, sosis (liverworst)",Lauk,100,274,3,16,22,low
+"Sapi, paru, dendeng, mentah",Lauk,100,360,19.2,57.3,6,
+"Sapi, paru, goreng",Lauk,100,268,14.5,23.9,12.7,
+"Ulat sagu, panggang",Masakan,100,380,14.9,11.9,30.3,
+"Ayam goreng church texas, dada",Masakan,100,338,0.4,35.2,20.6,low
+"Ayam goreng church,texas paha",Masakan,100,287,1.7,31,15.7,low
+"Ayam goreng church texas, sayap",Masakan,100,295,1.5,34,16,low
+"Ayam goreng kalasan, paha",Masakan,100,275,1.3,37.4,12.2,low
+"Ayam goreng kentucky, dada",Masakan,100,298,0.1,34.2,16.8,low
+"Ayam goreng Kentucky, paha",Masakan,100,286,1.1,32.1,16.1,low
+"Ayam  goreng Kentucky,sayap",Masakan,100,297,1.6,35.9,15.2,low
+Ayam goreng mbok berek dada,Masakan,100,295,1,39.2,13.6,low
+"Ayam goreng pasundan, dada",Masakan,100,246,0.7,37.9,9,low
+"Ayam goreng pasundan, paha",Masakan,100,245,0.3,33.1,11.4,low
+"Ayam goreng pioneer, dada",Masakan,100,295,0.6,37.4,14.7,low
+"Ayam goreng sukabumi, dada",Masakan,100,244,1,36.7,9.2,low
+"Ayam goreng sukabumi, paha",Masakan,100,283,0.5,35.7,14.3,low
+"Ayam taliwang, masakan",Lauk,100,264,2.7,18.2,20.1,low
+"Babi hutan masak rica, masakan",Lauk,100,491,0.2,24.6,16.3,low
+Beef burger,Lauk,100,258,32.5,10.6,9.5,moderate
+"Beef teriyaki, masakan",Masakan,100,151,22.3,8.6,3.1,
+"Beef yakiniku, masakan",Masakan,100,132,20.7,9.8,1.1,
+Brongkos,Lauk,100,141,12.6,15.3,3.3,
+"Bulgogi, masakan",Lauk,100,72,1.4,11.4,4.9,
+"Chicken teriyaki, masakan",Masakan,100,168,7.5,13,9.6,
+"Chikiniku, masakan",Masakan,100,143,22.8,9.8,1.4,
+"Coto mangkasara, kuda, masakan",Masakan,100,96,3.8,6.8,5.9,
+"Coto mangkasara, sapi, masakan",Masakan,100,84,1.4,6,6,
+"Djibokum, masakan",Masakan,100,248,40.9,10,2.3,
+"Empal (daging) Goreng, masakan",Masakan,100,248,10.1,36.2,6.9,
+Gulai kambing,Masakan,100,126,6.2,4.2,9.4,
+"Jangang bintatoeng, masakan",Masakan,100,107,16.5,5.3,2.2,
+"Kalio ayam, masakan",Masakan,100,203,4.4,16,13.5,
+"Kalio jeroan, masakan",Masakan,100,163,4.1,16.5,9,
+"Kalio kikil (tunjang), masakan",Masakan,100,122,3.9,13.8,5.7,
+"Kalio otak, masakan",Masakan,100,157,11.4,8.1,8.8,
+"Lawar babi, masakan",Masakan,100,174,3,17,10,
+"Lawar penyu, masakan",Masakan,100,141,7.6,23,1.5,
+"Lawara jangang, masakan",Masakan,100,159,10.1,5,10.9,
+"Naan maran sapi, masakan",Masakan,100,478,5.1,38.3,33.9,
+"Nasu likku, masakan",Masakan,100,196,15.9,14.5,8.3,
+"Oramu ninahu ndawa olaho, masakan",Masakan,100,117,4.3,13.7,5,
+"Paniki masak santan, masakan",Masakan,100,460,7.2,28.5,35.2,
+"Pelolah manuk, masakan",Masakan,100,219,4.4,19.7,13.6,
+"Rawon, masakan",Masakan,100,60,4,5.4,2.5,
+"Rendang sapi, masakan",Masakan,100,193,7.8,22.6,7.9,
+"RW, anjing, masakan",Masakan,100,198,0.9,24.6,10.7,
+"Sate, penyu, masakan",Masakan,100,179,13.3,22.5,3.5,
+"Sate pusut, masakan",Masakan,100,274,13.6,12.9,18.6,
+"Penyu, serapah, masakan",Masakan,100,174,2.2,13.1,12.2,
+"Sie reuboh, masakan",Masakan,100,474,11.7,11.2,42.5,
+"Sop buntut, masakan",Masakan,100,71,2.2,7.5,3.6,
+"Sop daging sapi, masakan",Masakan,100,49,5.3,5.8,0.5,low
+"Sop kaki sapi, masakan",Masakan,100,68,3.7,9,1.9,
+"Sop kambing, masakan",Masakan,100,34,1.1,5.5,0.8,
+"Sop konro, masakan",Masakan,100,71,4.5,7.4,2.6,
+"Sop saudara, masakan",Masakan,100,89,3.9,7.2,5,
+"Soto bandung, masakan",Masakan,100,42,2.8,3.9,1.7,
+"Soto banjar, masakan",Masakan,100,110,3.2,2.9,9.5,
+"Soto betawi, masakan",Masakan,100,135,11.5,2.5,8.8,
+"Soto jeroan, masakan",Masakan,100,92,1.4,11.8,4.3,
+"Soto kudus, masakan",Masakan,100,38,1.8,2.6,2.3,
+"Soto madura, masakan",Masakan,100,60,1.3,3.5,4.5,
+"Soto padang, masakan",Masakan,100,127,11,5.9,6.6,
+"Soto pekalongan, masakan",Masakan,100,94,5.1,3,6.8,
+"Soto pemalang, masakan",Masakan,100,75,3.5,3.6,5.2,
+"Soto sukaraja, masakan",Masakan,100,80,9,3.2,3.5,
+"Soto sulung, masakan",Masakan,100,86,0,2.3,8.5,
+"Sukiyaki, masakan",Masakan,100,75,12.2,5.6,0.4,
+"Tedong pallu basa, masakan",Masakan,100,83,2.8,10.4,3.4,
+"Tikus rica, masakan",Masakan,100,257,3.8,18.8,18.5,
+"Tinoransa, masakan",Masakan,100,516,0,17.7,49.5,
+"Belut, segar",Lauk,100,70,1,14.6,0.8,
+"Belut,laut, segar",Lauk,100,93,6.1,12.8,1.5,
+"Cumi-cumi, segar",Lauk,100,75,0.1,16.1,0.7,low
+"Ikan bader, segar",Lauk,100,193,0,19,13,low
+"Ikan balong, segar",Lauk,100,107,1.5,16.5,3.9,low
+"Ikan bambangan, segar",Lauk,100,112,3.7,20,1.3,low
+"Ikan bandeng, segar",Lauk,100,123,0,20,4.8,low
+"Ikan banjar, segar",Lauk,100,111,4.8,19.4,0.9,low
+"Ikan baronang, segar",Lauk,100,78,3.7,14.5,0.6,low
+"Ikan batung, segar",Lauk,100,115,4.2,14.5,4.6,low
+"Ikan baung, segar",Lauk,100,123,3.3,15.1,5.5,low
+"Ikan bawal, segar",Lauk,100,91,0,19,1.7,low
+"Ikan Belida, segar",Lauk,100,80,2.2,14.7,1.4,low
+"Ikan beunteur, segar",Lauk,100,109,0,17,4,low
+"Ikan biawan, segar",Lauk,100,90,2.1,14.9,2.5,low
+"Ikan bili, segar",Lauk,100,88,6.2,14.2,0.7,low
+"Ikan bubara, segar",Lauk,100,100,4.9,14.7,2.4,low
+"Ikan bulan-bulan, segar",Lauk,100,134,5,25.5,1.3,low
+"Ikan cakalang, segar",Lauk,100,107,5.5,19.6,0.7,low
+"Ikan cakalang, hati, segar",Lauk,100,120,10,11.3,3.9,low
+"Ikan cakalang, jantung, segar",Lauk,100,116,10.2,11.2,1.2,low
+"Ikan cakalang, perut, segar",Lauk,100,86,8.7,10.2,1.1,low
+"Ikan daun, segar",Lauk,100,101,4.6,11.5,4.1,low
+"Ikan ekor kuning, segar",Lauk,100,108,2.1,22.3,1.2,low
+"Ikan gabus, segar",Lauk,100,80,2.6,16.2,0.5,low
+"Ikan heu, segar",Lauk,100,81,6.6,10,1.6,low
+"Ikan hitam, segar",Lauk,100,101,6.7,10.3,3.7,low
+"Ikan hiu, segar",Lauk,100,57,2.2,10.7,0.3,low
+"Ikan kacangan, segar",Lauk,100,77,1.6,15.6,0.9,low
+"Ikan kakap, segar",Lauk,100,92,0,20,0.7,low
+"Ikan kakatua, segar",Lauk,100,82,6.4,11.4,1.2,low
+"Ikan kalaban, segar",Lauk,100,77,1.3,16.4,0.7,low
+"Ikan kamera (kakap merah), segar",Lauk,100,86,0,19.7,0.8,low
+"Ikan kapar, segar",Lauk,100,132,0.8,17,6.7,low
+"Ikan kawalinya, segar",Lauk,100,110,5.4,12.6,4.2,low
+"Ikan keru-keru, segar",Lauk,100,93,0.8,16.5,2.1,low
+"Ikan kima, segar",Lauk,100,70,5.2,10.8,0.7,low
+"Ikan lais, segar",Lauk,100,161,2.4,11.9,11.5,low
+"Ikan layang, segar",Lauk,100,109,0,22,1.7,low
+"Ikan layur, segar",Lauk,100,144,0.4,18,1,low
+"Ikan lehoma, segar",Lauk,100,90,0,20.4,0.9,low
+"Ikan lemuru, segar",Lauk,100,112,0,20,3,low
+"Ikan lidah, segar",Lauk,100,104,2,15.6,3.2,low
+"Ikan malalugis, segar",Lauk,100,99,0.9,20.6,1.4,low
+"Ikan mamar merah, segar",Lauk,100,115,4.4,15.3,4,low
+"Ikan mas, segar",Lauk,100,86,0,16,2,low
+"Ikan mayong, segar",Lauk,100,97,0.4,17.9,2,low
+"Ikan mujahir, segar",Lauk,100,89,0,18.7,1,low
+"Ikan nasu metti, segar",Lauk,100,154,10.5,16.8,5,low
+"Ikan paling, segar",Lauk,100,303,0,14,27,low
+"Ikan papuyu/ betok, segar",Lauk,100,120,4.6,14.3,4.9,low
+"Ikan patin, segar",Lauk,100,132,1.1,17,6.6,low
+"Ikan pomo, segar",Lauk,100,147,2.6,22.5,5.2,low
+"Ikan puntin, segar",Lauk,100,76,2.2,14.4,1.1,low
+"Ikan saluang, segar",Lauk,100,113,3.4,13.9,4.9,low
+"Ikan sarden, segar",Lauk,100,109,3.4,19.9,1.8,low
+"Ikan selar, segar",Lauk,100,100,0,18.8,2.2,low
+"Ikan sepat, segar",Lauk,100,84,4.7,15.2,0.6,low
+"Ikan sidat, segar",Lauk,100,81,3.8,11.4,1.9,low
+"Ikan sunu, segar",Lauk,100,111,6.7,13.3,3.4,low
+"Ikan tahuman, segar",Lauk,100,88,4.1,15.9,0.9,low
+"Ikan tarmon, segar",Lauk,100,96,2,19.5,1.1,low
+"Ikan telan, segar",Lauk,100,95,6.5,15.8,0.7,low
+"Ikan tembang, segar",Lauk,100,204,0,16,15,low
+"Ikan tempahas, segar",Lauk,100,101,1,15.1,4.1,low
+"Ikan terbang, segar",Lauk,100,98,1,19.6,1.7,low
+"Ikan teri, segar",Lauk,100,74,4.1,10.3,1.4,low
+"Ikan titang, segar",Lauk,100,82,2.3,17.4,0.4,low
+"Ikan tongkol, segar",Lauk,100,100,8,13.7,1.5,low
+"Ikan turi, segar",Lauk,100,96,0.2,19.2,2,low
+"Keong, segar",Lauk,100,64,2,12,1,low
+"Kepiting, segar",Lauk,100,151,14.1,13.8,3.8,low
+"Kerang, segar",Lauk,100,101,3.9,14.4,2.6,low
+"Kodok, segar",Lauk,100,73,0,16.4,0.3,low
+"Kura-kura, segar",Lauk,100,83,0,19.1,0.2,low
+"Kuro, segar",Lauk,100,87,1,16,2.2,low
+"Lokan, segar",Lauk,100,217,5.1,11,1.7,low
+"Rajungan, segar",Lauk,100,76,2.4,12.1,2,low
+"Rebon, udang kecil, segar",Lauk,100,81,0.7,16.2,1.2,low
+Rusip,Lauk,100,110,11.7,11.5,2,low
+"Udang galah, segar",Lauk,100,81,3,16.5,0.3,low
+"Udang, besar, segar",Lauk,100,56,1.2,11.4,0.6,low
+"Udang, segar",Lauk,100,91,0.1,21,0.2,low
+"Ikan gurame, segar",Lauk,100,127,0,18,5.6,low
+Ikan kembung,Lauk,100,103,0,22,1,low
+"Ikan, Nila",Lauk,100,128,0.18,16.79,0.18,low
+"Seafood, Lobster, mentah, segar",Lauk,100,112,2.43,20.6,1.51,low
+"Bekicot, dendeng, mentah",Lauk,100,441,15.8,48.7,20.3,low
+"Belut, goreng",Lauk,100,417,32,25.9,19.4,low
+"Cumi-cumi, goreng",Lauk,100,265,0,40.6,10.1,low
+"Ikan asin, kering",Lauk,100,193,0,42,1.5,low
+"Ikan bandeng presto, masakan",Lauk,100,296,11.3,17.1,20.3,low
+Ikan baung bakar,Lauk,100,144,5.2,17.8,5.8,low
+Ikan Belida bakar,Lauk,100,128,7.2,18,3,low
+"Ikan cakalang asap, mentah",Lauk,100,204,1.9,34.2,5.6,low
+"Ikan cakalang asin, mentah",Lauk,100,198,5.5,36.5,2.2,low
+"Ikan calo/ peda, mentah",Lauk,100,81,3.8,11.4,1.9,low
+"Ikan Gabus asap, mentah",Lauk,100,261,21.9,38.1,2.3,low
+"Ikan Gabus, kering",Lauk,100,268,0,58,4,low
+"Ikan gete, goreng",Lauk,100,267,0.2,23.1,19.4,low
+"Ikan hiu, kering",Lauk,100,298,20.2,46.3,3.6,low
+"Ikan katombo, asin",Lauk,100,162,0.3,31.7,2.8,low
+"Ikan kayu, kering",Lauk,100,302,0.4,70.7,1.9,low
+Ikan Lais bakar,Lauk,100,147,5.4,17.5,6.5,low
+"Ikan lomak asin, mentah",Lauk,100,258,18.9,40.3,2.3,low
+Ikan Mas pepes,Lauk,100,209,11.8,15.2,11.3,low
+Ikan mujahir goreng,Lauk,100,416,0,46.9,23.9,low
+Ikan Mujahir pepes,Lauk,100,121,0.8,21.7,2.8,low
+"Ikan mujahir, dendeng, mentah",Lauk,100,582,37.2,68.3,15.2,low
+"Ikan Papuyu, bakar",Lauk,100,152,6.7,17.6,6.1,low
+"Ikan Patin, bakar",Lauk,100,144,4.3,17.5,6.3,low
+"Ikan peda banjar, mentah",Lauk,100,156,2,28,4,low
+"Ikan pepetek, mentah",Lauk,100,176,2,32,4.4,low
+"Ikan Pindang banjar, mentah",Lauk,100,157,1.8,28,4.2,low
+"Ikan Pindang benggol, mentah",Lauk,100,170,0,31,4.2,low
+"Ikan Pindang layang, mentah",Lauk,100,153,0,30,2.8,low
+"Ikan Pindang selar, mentah",Lauk,100,142,0,27,3,low
+"Ikan sale, mentah",Lauk,100,534,4.9,40.2,39.3,low
+"Ikan sale lais, mentah",Lauk,100,415,2.9,61.3,17.6,low
+"Ikan saluang, kering, mentah",Lauk,100,284,14.6,34.1,9.9,low
+"Ikan sanggang, masakan",Lauk,100,240,20.7,21.7,7.7,low
+"Ikan selar kuning, cue, mentah",Lauk,100,138,0,27,3.3,low
+"Ikan selar, kering, mentah",Lauk,100,194,0,38,3.5,low
+"Ikan sepat, kering, mentah",Lauk,100,289,0,38,14,low
+"Ikan sunu, asin, mentah",Lauk,100,199,7.1,34.1,3.8,low
+"Ikan, tepung, mentah",Lauk,100,316,22.4,60.1,6.5,low
+"Ikan Teri nasi, kering, mentah",Lauk,100,144,0,32.5,0.6,low
+"Ikan Teri, bubuk, mentah",Lauk,100,277,1.8,60,2.3,low
+"Ikan teri, kering, mentah",Lauk,100,170,0,33.4,3,low
+"Ikan Teri, kering, tawar, mentah",Lauk,100,331,0,68.7,4.2,low
+"Ikan Teri, tepung, mentah",Lauk,100,347,19.6,48.8,6.4,low
+"Kerang, asap, mentah",Lauk,100,393,29.4,38.9,13.3,low
+"Kerang, dendeng, mentah",Lauk,100,357,25.6,41.1,10,low
+"Rebon, kering, mentah",Lauk,100,299,3.2,59.4,3.6,low
+"Rebung laut, mentah",Lauk,100,320,63.3,7.2,4.2,low
+Sardines dalam kaleng,Lauk,100,338,1,21.1,27,high
+"Teripang, dendeng, mentah",Lauk,100,462,3.5,39.1,32.4,low
+"Udang kering, mentah",Lauk,100,278,2.2,62.6,4.1,low
+"Udang papay, mentah",Lauk,100,273,12.5,47.8,3.8,low
+Abon haruwan,Lauk,100,513,21.3,23.7,37,
+Abon ikan,Lauk,100,435,36.1,27.2,20.2,
+"Betok wadi, masakan",Masakan,100,145,4.1,16.3,7,
+"Bou ninahu ndamate, masakan",Masakan,100,79,1.1,6.3,1,
+"Bouiki ninahu nggaluku, masakan",Masakan,100,94,10.8,7.8,2.2,
+Cakalang asar (asap),Masakan,100,155,10.2,20.1,3.8,low
+"Dendeng belut, goreng, masakan",Masakan,100,382,8,55.7,14.1,low
+"Dendeng mujahir, goreng, masakan",Masakan,100,598,9.2,74.3,26.9,low
+Fillet o-fish,Masakan,100,270,19.3,12.3,15.9,low
+"Gete kuah asam, masakan",Masakan,100,75,6,8.2,2,
+"Gulai asam keueung, masakan",Masakan,100,52,1.8,10,0.5,
+"Gulai ikan paya, masakan",Masakan,100,148,5,10,9.8,
+"Gulai ikan, masakan",Masakan,100,106,2.5,16.5,3.3,
+"Gulai keumamah, masakan",Masakan,100,110,3.2,5.9,8.2,
+"Gulai tiram, masakan",Masakan,100,132,7.8,9,7.2,
+"Gurame asem manis, masakan",Masakan,100,192,12.7,12.7,10.1,low
+"Ikan asar merah, masakan",Masakan,100,146,5.6,17.7,5.9,low
+"Jambal goreng, masakan",Masakan,100,286,2.3,48.5,9.2,
+"Jukku pallu kaloa, masakan",Masakan,100,15,8.8,15.2,4.3,
+"Kaholeo, masakan",Masakan,100,413,29.8,28.7,19.8,
+Lawara penjah,Masakan,100,207,9.6,7.4,15.4,
+"Model, masakan",Masakan,100,79,8.6,2.2,4,
+"Mujahir acar kuning, masakan",Masakan,100,330,12.1,17.8,23.4,low
+"Parede baleh, masakan",Masakan,100,87,5.5,10.5,2.5,
+"Pempek adaan, masakan",Masakan,100,162,27.8,4.9,3,
+"Pempek belida, masakan",Masakan,100,156,31.6,4.2,1.4,
+"Pempek kapal selam, masakan",Masakan,100,152,28.2,4.5,2.3,
+"Pempek kelesan, masakan",Masakan,100,211,26.6,12.3,6.1,
+"Pempek kulit, masakan",Masakan,100,243,39.1,5.2,7.3,
+"Pempek telur, masakan",Masakan,100,156,28.3,4.7,2.7,
+"Pempek tenggiri, masakan",Masakan,100,173,33.4,7.2,1.2,
+"Pencok lele, masakan",Masakan,100,372,3.5,7.8,36.3,
+Pinda,Masakan,100,107,0.4,15.9,0.6,
+"Pindang kenari, masakan",Masakan,100,124,0,9.5,9.6,low
+"Saboko gurita, masakan",Masakan,100,87,2.6,15.7,1.5,low
+"Saboko saltan, masakan",Masakan,100,113,3,17.1,3.6,
+"Saboko sardin, masakan",Masakan,100,110,4.9,12.9,4.3,
+Sate Bandeng,Masakan,100,283,20.9,12.1,16.8,
+"Sepi, masakan",Masakan,100,88,10.6,7.9,1.6,
+"Tekwan, masakan",Masakan,100,53,9.4,1.9,0.9,
+"Teri belado, masakan",Masakan,100,365,17.5,23.7,22.3,
+"Tumis bandeng, masakan",Masakan,100,189,0.6,11.3,15.7,low
+Tumis keumamah,Lauk,100,300,15.5,14.5,20,low
+"Telur ayam kampung, segar",Lauk,100,174,1.2,10.8,14,low
+"Telur ayam ras, segar",Lauk,100,154,0.7,12.4,10.8,low
+"Telur ayam ras, bagian kuning, segar",Lauk,100,355,0.7,16.3,31.9,low
+"Telur ayam ras, bagian putih, segar",Lauk,100,50,0.8,10.8,0,low
+"Telur bebek alabio, segar",Lauk,100,187,3,11.8,14.2,low
+"Telur bebek, bagian kuning, segar",Lauk,100,386,0.8,17,35,low
+"Telur bebek, bagian putih, segar",Lauk,100,54,0.8,11,0,low
+"Telur bebek tambak, segar",Lauk,100,187,7.9,10.9,12.4,low
+"Telur burung maleo, segar",Lauk,100,436,0.4,26.5,36.3,low
+"Telur penyu, segar",Lauk,100,136,2.7,8.6,10.1,low
+"Telur burung puyuh, segar",Lauk,100,116,1.6,10.7,7,low
+"Telur ayam, dadar, masakan",Lauk,100,251,1.4,16.3,19.4,low
+"Telur bebek, asin, mentah",Lauk,100,179,4.4,13.6,13.3,low
+"Telur bebek, dadar, masakan",Lauk,100,301,0,20,23.7,low
+"Ikan, telur, asin, mentah",Lauk,100,358,9.4,20.7,26.4,low
+"Bayau mi balu, masakan",Lauk,100,313,44.8,6,12.2,
+"Cucuru bayau, masakan",Lauk,100,349,38.3,6.8,18.7,
+"Kalio telur, masakan",Lauk,100,193,9.7,10.6,12.4,low
+"Kepala susu - krim, segar",Minuman,100,204,4,2.6,20,moderate
+Susu ibu - ASI,Minuman,100,62,7,1.5,3.2,low
+"Susu kambing, segar",Minuman,100,64,6.6,4.3,2.3,low
+"Susu kerbau, segar",Minuman,100,160,7.1,6.3,12,low
+"Susu kuda, segar",Minuman,100,40,5.4,2,1.1,low
+"Susu sapi, segar",Minuman,100,61,4.3,3.2,3.5,low
+Es krim,Snack,100,210,20.6,4,12.5,moderate
+Hangop,Snack,100,65,3.5,10,1,
+Keju,Snack,100,326,13.1,22.8,20.3,low
+Kwark (Quark),Snack,100,242,3,19,17,
+"Susu asam untuk bayi, bubuk",Minuman,100,418,65.5,19,9,moderate
+Susu bubuk,Minuman,100,513,36.2,24.6,30,moderate
+Susu kental manis,Minuman,100,343,55,8.2,10,high
+Susu kental tak manis,Minuman,100,138,9.9,7,7.9,moderate
+"Susu skim, bubuk",Minuman,100,359,52,35.6,1,low
+"Susu skim, segar",Minuman,100,36,5.1,3.5,0.1,low
+"Yoghurt, segar",Minuman,100,52,4,3.3,2.5,low
+"Kelapa setengah tua, daging, segar",Minuman,100,180,10,4,15,low
+"Kelapa tua, daging, segar",Minuman,100,359,14,3.4,34.7,low
+Lemak babi (lard),Lauk,100,902,0,0,100,low
+Lemak babi (bacon),Lauk,100,626,1.1,9.1,65,low
+Lemak ikan,Lauk,100,372,14.4,12,29.4,low
+Lemak kerbau (lemak sapi),Lauk,100,818,0,1.5,90,low
+"Minyak hiu, hati",Lauk,100,902,0,0,100,
+Minyak ikan,Lauk,100,902,0,0,100,
+Minyak kacang tanah,Lauk,100,902,0,0,100,
+Minyak kedelai,Lauk,100,883,0,0,99.9,
+Minyak kelapa,Lauk,100,870,0,1,98,
+Minyak kelapa sawit,Lauk,100,884,0,0,100,
+Minyak wijen,Lauk,100,881,0,0.2,99.7,
+Margarin,Lauk,100,720,0.4,0.6,81,low
+Mentega,Lauk,100,742,1.4,0.5,81.6,high
+Santan (dengan air),Lauk,100,122,7.6,2,10,
+Santan murni,Lauk,100,324,5.6,4.2,34.3,
+"Coklat manis, batang",Snack,100,527,62.7,2,29.8,high
+"Coklat pahit,batang",Snack,100,615,29.2,5.5,42.6,moderate
+"Coklat susu, batang",Snack,100,565,53.6,9,35,high
+Coklat bubuk,Snack,100,311,48.9,8,4,moderate
+Gula aren,Snack / Lauk,100,368,92,0,0,high
+Gula kelapa,Snack / Lauk,100,386,76,3,10,high
+Gula putih,Snack / Lauk,100,394,94,0,0,high
+"Jam, selai",Snack / Lauk,100,239,64.5,0.5,0.6,low
+Kopi bubuk instant,Minuman,100,129,35,12.3,0.5,low
+Madu,Minuman,100,294,79.5,0.3,0,moderate
+Markisa squash,Minuman,100,217,49.6,2.5,1,low
+"Markisa squash, BD",Minuman,100,104,23.7,1.2,0.5,low
+Melase,Minuman,100,276,71,,0.1,low
+Sirup,Minuman,100,213,55,0,0,high
+Sirup pirous,Minuman,100,228,55.9,0.2,0.4,high
+Teh hijau daun kering,Minuman,100,300,53.6,28.3,4.8,
+Teh hitam daun kering,Minuman,100,293,58.8,24.5,2.8,
+Teh melati daun kering,Minuman,100,299,59,24.1,3.5,
+"Asam arang coklat, segar",Lauk,100,130,30.9,0.5,1.1,
+"Asam arang merah, segar",Lauk,100,99,20.3,0.8,1.6,
+"Asan kandis, kering",Lauk,100,261,63.3,0.9,1.6,
+"Asam kandis, segar",Lauk,100,75,16.1,0.2,1.1,
+"Asam masak pohon, segar",Lauk,100,267,62.5,2.8,0.6,
+"Asam payak, segar",Lauk,100,135,32.1,0.8,0.4,
+"Bawang merah, segar",Lauk,100,46,9.2,1.5,0.3,low
+"Bawang putih, segar",Lauk,100,112,23.1,4.5,0.2,low
+"Boros kunci, segar",Lauk,100,40,7.2,1,0.8,
+"Boros laja (lengkuas), segar",Lauk,100,26,4.7,1,0.3,
+"Cabai gembor merah, segar",Lauk,100,38,6.3,1.6,0.8,low
+"Cabai hijau, segar",Lauk,100,26,5.2,0.7,0.3,low
+"Cabai merah, kering",Lauk,100,367,61.8,15.9,6.2,low
+"Cabai merah, segar",Lauk,100,36,7.3,1,0.3,low
+"Cabai rawit, segar",Lauk,100,120,19.9,4.7,2.4,low
+"Cengkeh, kering",Lauk,100,330,57.4,5.2,8.9,
+"Daun salam,  bubuk",Lauk,100,301,49,14.2,10.9,low
+"Jahe, segar",Lauk,100,51,10.1,1.5,1,low
+Kemiri,Lauk,100,675,8,19,63,
+"Ketumbar, kering",Lauk,100,418,54.2,14.1,16.1,
+Kluwek,Lauk,100,310,13.5,10,24,
+"Kunyit, segar",Lauk,100,69,9.1,2,2.7,
+"Merica, kering",Lauk,100,365,64.4,11.5,6.8,
+"Pala, biji, kering",Lauk,100,518,40.1,7.5,36.4,
+Balichong,Lauk,100,152,22.9,13.2,0.8,
+Bekasam,Lauk,100,116,6.1,11.9,4.9,
+Bekasang,Lauk,100,78,3.6,11.4,2,
+Cuka,Lauk,100,21,5,0.1,0.1,
+Kecap,Lauk,100,71,9,5.7,1.3,
+Petis ikan,Lauk,100,165,20.8,20,0.2,low
+Petis udang kering,Lauk,100,345,59.3,23.8,1.4,
+Petis udang pasta,Lauk,100,220,38,15,0.9,
+Saos tomat,Lauk,100,110,24.5,2,0.4,low
+Tempoya,Lauk,100,110,21.9,1.7,1.3,
+Terasi,Lauk,100,155,9.9,22.3,2.9,
+Terasi dobo,Lauk,100,191,6.6,33.1,3.6,
+Terasi merah,Lauk,100,174,5.6,30,3.5,
+Kefir,Minuman,100,52,7.34,3.59,0.92,low
+"Susu kedelai, chocolate",Minuman,100,63,9.95,2.26,1.53,
+"Susu kedelai, light, chocolate",Minuman,100,47,8.24,2.1,0.64,
+"Susu Almond, sweetened",Minuman,100,38,6.59,0.42,1.04,
+"Susu Almond, sweetened, chocolate",Minuman,100,50,9.38,0.63,1.25,
+"Susu Almond, unsweetened",Minuman,100,15,0.58,0.59,1.1,
+"Susu Almond, unsweetened, chocolate",Minuman,100,21,1.25,0.83,1.46,
+"Yogurt, Greek, plain",Minuman,100,73,3.94,9.95,1.92,low
+"Yogurt, Greek, whole milk, plain",Minuman,100,97,3.98,9,5,low
+"Yogurt, Greek, low fat milk, plain",Minuman,100,73,3.94,9.95,1.92,low
+"Yogurt, Greek, nonfat milk, plain",Minuman,100,59,3.6,10.19,0.39,low
+"Yogurt, Greek, fruit",Minuman,100,103,11.89,8.17,2.57,low
+"Yogurt, Greek, whole milk, fruit",Minuman,100,106,12.29,7.33,3,low
+"Yogurt, Greek, low fat milk, fruit",Minuman,100,103,11.89,8.17,2.57,low
+"Yogurt, Greek, nonfat milk, fruit",Minuman,100,82,12.07,8.05,0.15,low
+"Yogurt, Greek, flavors other than fruit",Minuman,100,95,9.54,8.64,2.5,low
+"Yogurt, Greek, whole milk, flavors other than fruit",Minuman,100,111,9.35,8.47,4.44,low
+"Yogurt, Greek, low fat milk, flavors other than fruit",Minuman,100,95,9.54,8.64,2.5,low
+"Yogurt, Greek, nonfat milk, flavors other than fruit",Minuman,100,78,10.37,8.64,0.18,low
+"Yogurt, Greek, with oats",Minuman,100,154,23.81,8.65,3.14,low
+"Cream, light",Snack,100,191,2.82,2.96,19.1,
+"Cream, half and half",Snack,100,123,4.73,3.13,10.39,
+"Cream, half and half, flavored",Snack,100,122,4.92,3.07,10.19,
+"Cream, half and half, fat free",Snack,100,59,9,2.6,1.4,
+"Cream, heavy",Snack,100,340,2.74,2.84,36.08,
+"Cream, whipped",Snack,100,343,8.49,2.67,33.94,
+"Keju, Blue or Roquefort",Others,100,353,2.34,21.4,28.74,
+"Keju, Brick",Others,100,371,2.79,23.24,29.68,
+"Keju, Camembert",Others,100,300,0.46,19.8,24.26,
+"Keju, Brie",Others,100,334,0.45,20.75,27.68,
+"Keju, Cheddar",Others,100,404,3.09,22.87,33.31,
+"Keju, Cheddar, reduced fat",Others,100,309,4.06,27.35,20.41,
+"Keju, Cheddar, nonfat or fat free",Others,100,157,7.14,32.14,0,
+"Keju, Colby",Others,100,394,2.57,23.76,32.11,
+"Keju, Colby Jack",Others,100,384,1.62,24.12,31.2,
+"Keju, Feta",Others,100,264,4.09,14.21,21.28,
+"Keju, Fontina",Others,100,389,1.55,25.6,31.14,
+"Keju, susu kambing",Others,100,360,0.76,23.52,28.85,
+"Keju, Gouda or Edam",Others,100,357,1.67,24.98,27.69,
+"Keju, Gruyere",Others,100,413,0.36,29.81,32.34,
+"Keju, Limburger",Others,100,327,0.49,20.05,27.25,
+"Keju, Monterey",Others,100,373,0.68,24.48,30.28,
+"Keju, Monterey, reduced fat",Others,100,313,0.7,28.2,21.6,
+"Keju, Mozzarella",Others,100,295,5.58,23.75,19.78,
+"Keju, Mozzarella, whole milk",Others,100,300,2.19,22.17,22.35,
+"Keju, Mozzarella, part skim",Others,100,295,5.58,23.75,19.78,low
+"Keju, Mozzarella, reduced sodium",Others,100,280,3.1,27.5,17.1,
+"Keju, Mozzarella, nonfat or fat free",Others,100,141,3.5,31.7,0,
+"Keju, Muenster",Others,100,368,1.12,23.41,30.04,
+"Keju, Muenster, reduced fat",Others,100,271,3.5,24.7,17.6,
+"Keju, Parmesan, dry grated",Others,100,420,13.91,28.42,27.84,
+"Keju, Parmesan, dry grated, reduced fat",Others,100,395,26.96,34.21,16.42,
+"Keju, Parmesan, hard",Others,100,392,3.22,35.75,25.83,
+"Keju, Parmesan, dry grated, fat free",Others,100,370,40,40,5,
+"Keju, Port du Salut",Others,100,356,2.22,24.94,27.44,
+"Keju, Provolone",Others,100,351,2.14,25.58,26.62,
+"Keju, provolone, reduced fat",Others,100,274,3.5,24.7,17.6,
+"Keju, Swiss",Others,100,393,1.44,26.96,30.99,
+"Keju, Swiss, reduced sodium",Others,100,374,3.4,28.4,27.4,
+"Keju, Swiss, reduced fat",Others,100,179,3.4,28.4,5.1,
+"Keju, Swiss, nonfat or fat free",Others,100,127,3.4,28.4,0,
+"Keju, Cheddar, reduced sodium",Others,100,398,1.91,24.35,32.62,
+"Keju, Mexican blend",Others,100,358,1.75,23.54,28.51,
+"Keju, Mexican blend, reduced fat",Others,100,282,3.41,24.69,19.4,
+"Pork, bagian perut, mentah",Lauk,100,518,0,9.3,53,
+"Domba, dimasak",Lauk,100,292,0,24.32,20.77,low
+"Irisan daging domba, dimasak",Lauk,100,313,0,24.96,22.89,low
+Daging domba kurus,Lauk,100,214,0,29.74,9.65,low
+"Domba, bagian lengan atas",Lauk,100,274,0,22.32,19.8,low
+"Domba, bagian lengan atas, kurus",Lauk,100,202,0,24.73,10.68,low
+"Domba, bagian iga, dimasak",Lauk,100,233,0,27.51,12.84,low
+"Domba, bagian iga, dimasak, kurus",Lauk,100,358,0,21.95,29.34,low
+"Domba, panggang",Lauk,100,265,0,23.83,18.07,low
+"Domba, panggang, kurus",Lauk,100,196,0,26.4,9.18,low
+"Kambing, boiled",Lauk,100,142,0,26.87,3,
+"Kambing, fried",Lauk,100,153,0,26.46,4.52,
+"Kambing, baked",Lauk,100,142,0,26.87,3,
+"Kepala kambing, dimasak",Lauk,100,144,0.48,21.82,5.46,
+"Kambing, bagian iga, dimasak",Lauk,100,142,0,26.87,3,
+"Hati sapi, direbus",Lauk,100,189,5.09,28.84,5.22,low
+"Hati sapi, digoreng",Lauk,100,174,5.12,26.3,4.64,low
+"Hati ayam, direbus",Lauk,100,166,0.86,24.26,6.46,low
+"Hati ayam, digoreng",Lauk,100,189,6.41,19.98,8.66,low
+"Jantung (jeroan), cooked",Lauk,100,164,0.15,28.24,4.69,
+"Ginjal (jeroan), cooked",Lauk,100,157,0,27.04,4.61,low
+"Brains (jeroan), cooked",Lauk,100,150,1.47,11.57,10.44,
+"Lidah sapi (jeroan), cooked",Lauk,100,282,0,19.13,22.11,low
+"Lidah sapi (jeroan), smoked, cured, or pickled, cooked",Lauk,100,277,0,18.8,21.74,low
+"Babat, dimasak",Lauk,100,89,0,12.6,3.85,
+"Rahang babi, dimasak",Lauk,100,250,0,26.52,15.96,low
+"Ampela sapi, dimasak",Lauk,100,153,0,30.14,2.66,
+"Salmon, raw",Lauk,100,127,0,20.5,4.4,low
+"Salmon, baked or broiled, made with oil",Lauk,100,188,0.1,25.08,9.06,low
+"Salmon, baked or broiled, made with butter",Lauk,100,183,0.1,25.08,8.48,low
+"Salmon, baked or broiled, made with margarine",Lauk,100,176,0.13,25.05,7.68,low
+"Salmon, baked or broiled, made without fat",Lauk,100,160,0.1,25.82,5.54,low
+"Salmon, baked or broiled, made with cooking spray",Lauk,100,164,0.2,25.72,5.92,low
+"Salmon, coated, baked or broiled, made with oil",Lauk,100,235,12.52,21.43,10.45,low
+"Salmon, coated, baked or broiled, made with butter",Lauk,100,227,12.5,21.44,9.56,low
+"Salmon, coated, baked or broiled, made with margarine",Lauk,100,217,12.55,21.4,8.35,low
+"Salmon, coated, baked or broiled, made without fat",Lauk,100,194,13.1,22.42,5.07,low
+"Salmon, coated, baked or broiled, made with cooking spray",Lauk,100,197,13.14,22.35,5.35,low
+"Salmon, coated, fried, made with oil",Lauk,100,253,9.85,20.5,14.08,low
+"Salmon, coated, fried, made with butter",Lauk,100,238,9.86,20.57,12.44,low
+"Salmon, coated, fried, made with margarine",Lauk,100,222,9.93,20.51,10.58,low
+"Salmon, coated, fried, made without fat",Lauk,100,207,11.6,24.12,6.32,low
+"Salmon, coated, fried, made with cooking spray",Lauk,100,209,11.64,24.05,6.61,low
+"Salmon, Kukus/rebus",Lauk,100,160,0,25.78,5.53,low
+"Salmon, dried",Lauk,100,397,0,64.06,13.75,low
+"Salmon, canned",Lauk,100,137,0,20.55,5.48,low
+"Salmon, smoked",Lauk,100,117,0,18.28,4.32,low
+"Tuna, fresh, raw",Lauk,100,109,0,24.4,0.49,low
+"Tuna, fresh, baked or broiled, fat added in cooking",Lauk,100,166,0.1,29.85,4.28,low
+"Tuna, fresh, baked or broiled, fat not added in cooking",Lauk,100,138,0.1,30.73,0.62,low
+"Tuna, fresh, coated, baked or broiled, fat added in cooking",Lauk,100,218,12.52,25.08,6.8,low
+"Tuna, fresh, coated, baked or broiled, fat not added",Lauk,100,177,13.1,26.22,1.25,low
+"Tuna, fresh, coated, fried",Lauk,100,237,9.85,23.82,10.75,low
+"Tuna, fresh, steamed or poached",Lauk,100,137,0,30.68,0.62,low
+"Tuna, fresh, dried",Lauk,100,341,0,76.25,1.53,low
+"Tuna, fresh, smoked",Lauk,100,200,0,25.54,10.04,low
+"Tuna, canned, oil pack",Lauk,100,198,0,29.13,8.21,low
+"Tuna, canned, water pack",Lauk,100,86,0,19.44,0.96,low
+"Gurita, dimasak",Lauk,100,222,12.16,16.3,11.63,low
+"Gurita, steamed (kukus)",Lauk,100,163,4.37,29.62,2.07,low
+"Gurita, dried",Lauk,100,311,8.34,56.52,3.94,low
+"Gurita, dried, boiled",Lauk,100,163,4.38,29.69,2.07,low
+"Gurita, smoked",Lauk,100,164,4.4,29.82,2.08,low
+"Cumi-cumi, raw",Lauk,100,92,3.08,15.58,1.38,low
+"Cumi-cumi, baked or broiled, fat added in cooking",Lauk,100,142,3.77,18.59,5.23,low
+"Cumi-cumi, baked or broiled, fat not added in cooking",Lauk,100,113,3.88,19.14,1.7,low
+"Cumi-cumi, coated, baked or broiled, fat added in cooking",Lauk,100,198,15.01,16.42,7.44,low
+"Cumi-cumi, coated, baked or broiled, fat not added in cooking",Lauk,100,156,15.7,17.17,2.06,low
+"Cumi-cumi, coated, fried",Lauk,100,231,12.94,16.89,11.93,low
+"Cumi-cumi, steamed or boiled",Lauk,100,183,6.13,31.02,2.75,low
+"Cumi-cumi, dried",Lauk,100,348,11.65,58.94,5.22,low
+"Cumi-cumi, pickled",Lauk,100,93,2.96,14.93,1.32,low
+"Cumi-cumi, canned",Lauk,100,106,3.54,17.9,1.59,low
+"Oysters (Tiram), raw",Lauk,100,51,2.72,5.71,1.71,low
+"Oysters (Tiram), cooked",Lauk,100,195,12.62,8.16,12.22,low
+"Oysters (Tiram), baked or broiled, fat not added in cooking",Lauk,100,63,3.44,7.02,2.1,low
+"Oysters (Tiram), steamed",Lauk,100,102,5.42,11.37,3.4,low
+"Oysters (Tiram), coated, fried",Lauk,100,195,12.62,8.16,12.22,low
+"Oysters (Tiram), coated, baked or broiled, fat added in cooking",Lauk,100,160,14.69,7.43,7.74,low
+"Oysters (Tiram), coated, baked or broiled, fat not added in cooking",Lauk,100,117,15.36,7.77,2.38,low
+"Oysters (Tiram), canned",Lauk,100,74,4.25,7.67,2.68,low
+"Oysters (Tiram), smoked",Lauk,100,82,4.38,9.2,2.76,low
+"Scallops (kerang), baked or broiled, fat added in cooking",Lauk,100,114,3.89,14.39,4.17,low
+"Scallops (kerang), baked or broiled, fat not added in cooking",Lauk,100,85,4,14.81,0.6,low
+"Scallops (kerang), steamed or boiled",Lauk,100,137,6.33,24.01,0.98,low
+"Scallops (kerang), coated, fried",Lauk,100,211,13.03,13.78,11.14,low
+"Scallops (kerang), coated, baked or broiled, fat added in cooking",Lauk,100,177,15.1,13.21,6.63,low
+"Scallops (kerang), coated, baked or broiled, fat not added in cooking",Lauk,100,134,15.8,13.82,1.22,low
+"Almonds, mentah",Snack,100,598,21.01,20.96,52.54,low
+"Almonds, unroasted",Snack,100,579,21.55,21.15,49.93,low
+"Almonds, salted",Snack,100,601,20.18,20.13,53.43,low
+"Almonds, lightly salted",Snack,100,604,20.28,20.23,53.7,low
+"Almonds, unsalted",Snack,100,607,20.38,20.33,53.96,low
+"Almonds, flavored",Snack,100,599,20.12,20.07,53.27,low
+"Almonds, honey roasted",Snack,100,575,35.92,14.11,45.27,moderate
+Kacang Brazil,Snack,100,659,11.74,14.32,67.1,low
+"Kacang metes, unroasted",Snack,100,574,32.69,15.31,46.35,low
+"Kacang metes, salted",Snack,100,578,31.4,14.7,47.48,low
+"Kacang metes, lightly salted",Snack,100,580,31.55,14.78,47.72,low
+"Kacang metes, unsalted",Snack,100,583,31.71,14.85,47.96,low
+"Kacang metes, honey roasted",Snack,100,558,43.79,10.31,41.11,moderate
+Kacang Kastanye (Chestnuts),Snack,100,245,52.96,3.17,2.2,low
+Hazelnut,Snack,100,628,16.7,14.95,60.75,low
+Macadamia,Snack,100,716,12.83,7.79,76.08,
+"Peanuts, raw",Snack,100,587,21.26,24.35,49.66,
+"Peanuts, boiled",Snack,100,318,21.26,13.5,22.01,
+"Peanuts, unroasted",Snack,100,567,16.13,25.8,49.24,
+"Peanuts, roasted, salted",Snack,100,599,15.26,28.03,52.5,
+"Peanuts, roasted, unsalted",Snack,100,599,15.26,28.03,52.5,
+"Peanuts, dry roasted, salted",Snack,100,587,21.26,24.35,49.66,moderate
+"Peanuts, dry roasted, lightly salted",Snack,100,584,21.15,24.23,49.41,moderate
+"Peanuts, dry roasted, unsalted",Snack,100,587,21.26,24.35,49.66,moderate
+"Peanuts, honey roasted",Snack,100,572,30.07,20.7,45.21,moderate
+"Pecans, salted",Snack,100,690,13.31,8.81,72.09,
+"Pecans, unsalted",Snack,100,697,13.44,8.9,72.81,
+"Pecans, honey roasted",Snack,100,637,31.11,6.17,58.36,moderate
+kacang pinus (Pine nut),Snack,100,673,13.08,13.69,68.37,low
+"Kacang Pistachio, raw",Snack,100,572,28.28,21.05,45.82,low
+"Kacang Pistachio, salted",Snack,100,576,27.16,20.22,46.98,low
+"Kacang Pistachio, lightly salted",Snack,100,579,27.3,20.32,47.21,low
+"Kacang Pistachio, unsalted",Snack,100,581,27.43,20.42,47.44,low
+"Walnuts, honey roasted",Snack,100,612,31.01,10.25,53.8,moderate
+"Coconut water, unsweetened",Minuman,100,18,4.24,0.22,0,low
+"Biji labu (Pumpkin seeds), raw",Lauk,100,574,14.71,29.84,49.05,low
+"Biji labu (Pumpkin seeds), salted",Lauk,100,567,14.54,29.49,48.47,low
+"Biji labu (Pumpkin seeds), unsalted",Lauk,100,574,14.71,29.84,49.05,low
+"Biji bunga matahari (Sunflower seeds), plain, unsalted",Snack,100,582,24.07,19.33,49.8,low
+"Biji bunga matahari (Sunflower seeds), plain, salted",Snack,100,575,23.78,19.1,49.21,low
+"Biji bunga matahari (Sunflower seeds), flavored",Snack,100,567,25.93,18.45,47.54,low
+"Biji bunga matahari (Sunflower seeds), mentah/raw",Snack,100,582,24.07,19.33,49.8,low
+Tahini,,100,595,21.19,17,53.76,
+Flax seeds,,100,534,28.88,18.29,42.16,
+Mixed seeds,,100,580,21.73,21.96,49.61,
+Chia seeds,,100,534,28.88,18.29,42.16,low
+"Garlic bread, from fast food / restaurant",Snack,100,349,41.64,8.34,16.58,
+Croissant,Snack,100,406,45.8,8.2,21,high
+"Croissant, Keju",Snack,100,414,47,9.2,20.9,high
+"Croissant, chocolate",Snack,100,421,49.4,7.4,22.79,high
+"Croissant, fruit",Snack,100,396,46.99,7.77,19.78,
+"Tortilla, plain",Snack,100,262,47.01,6.95,5.42,
+"Tortilla, corn",Snack,100,218,44.64,5.7,2.85,
+"Tortilla, flour",Snack,100,306,49.38,8.2,7.99,
+"Tortilla, whole wheat",Snack,100,310,45.89,9.76,9.76,
+"Taco shell, corn",Snack,100,476,63.49,6.41,21.79,
+"Taco shell, flour",Snack,100,511,53.2,8.83,29.07,
+Burrito with meat,Lauk,100,242,14.44,13.03,14.48,
+Burrito with meat and beans,Lauk,100,229,17.83,11.36,12.46,
+"Burrito with meat and beans, from fast food",Lauk,100,180,23.37,7.03,6.8,
+Burrito with meat and sour cream,Lauk,100,236,13.09,11.57,15.15,
+"Burrito with meat, beans, and sour cream",Lauk,100,225,16.06,10.16,13.39,
+"Burrito with meat, beans, and sour cream, from fast food",Lauk,100,209,26.78,8.56,7.86,
+"Burrito with meat, beans, and rice",Lauk,100,223,18.52,10.79,11.66,
+"Burrito with meat, beans, rice, and sour cream",Lauk,100,219,16.76,9.73,12.63,
+Burrito with chicken,Lauk,100,242,16.57,16.9,12.01,
+Burrito with chicken and beans,Lauk,100,228,19.06,12.93,11.2,
+Burrito with chicken and sour cream,Lauk,100,235,14.66,14.59,13.19,
+"Burrito with chicken, beans, and sour cream",Lauk,100,224,16.98,11.42,12.38,
+"Burrito with chicken, beans, and rice",Lauk,100,221,19.72,12.2,10.42,
+"Burrito with chicken, beans, rice, and sour cream",Lauk,100,218,17.67,10.88,11.63,
+"Burrito with beans and rice, meatless",Lauk,100,211,21.5,9.32,9.89,
+"Burrito with beans, meatless",Lauk,100,217,21.04,9.78,10.56,
+"Burrito with beans, meatless, from fast food",Lauk,100,205,31.23,7.35,6.05,
+"Burrito with beans, rice, and sour cream, meatless",Lauk,100,210,19.41,8.47,11.06,
+"Raisins, raw",Snack,100,299,79.18,3.07,0.46,moderate
+"Raisins, cooked",Snack,100,219,57.38,1.43,0.21,moderate
+"Cherries, sweet, raw",Snack,100,63,16.01,1.06,0.2,
+"Juneberry, raw",Snack,100,57,14.49,0.74,0.33,
+"Kiwi fruit, raw",Snack,100,61,14.66,1.14,0.52,low
+"Lychee, raw",Snack,100,66,16.53,0.83,0.44,
+"Peach, raw",Snack,100,39,9.54,0.91,0.25,
+"Pear, raw",Snack,100,57,15.23,0.36,0.14,low
+"Pear, Japanese, raw",Snack,100,42,10.65,0.5,0.23,low
+"Persimmon, raw",Snack,100,70,18.59,0.58,0.19,
+"Plum, raw",Snack,100,46,11.42,0.7,0.28,low
+"Plum, cooked or canned",Snack,100,89,23.24,0.36,0.1,moderate
+"Plum, cooked or canned, unsweetened, water pack",Snack,100,41,11.03,0.39,0.01,moderate
+"Plum, cooked or canned, in heavy syrup",Snack,100,89,23.24,0.36,0.1,high
+"Plum, cooked or canned, in light syrup",Snack,100,63,16.28,0.37,0.1,high
+"Plum, cooked or canned, drained solids",Snack,100,89,23.12,0.44,0.14,moderate
+"Plum, cooked or canned, juice pack",Snack,100,58,15.15,0.51,0.02,moderate
+"Plum, pickled",Snack,100,123,30.8,0.48,0.19,low
+"Berries, raw",Snack,100,32,7.68,0.67,0.3,
+"Berries, frozen",Snack,100,51,12.17,0.42,0.64,
+"Blackberries, raw",Snack,100,43,9.61,1.39,0.49,
+"Blueberries, raw",Snack,100,57,14.49,0.74,0.33,
+"Cranberries, raw",Snack,100,46,11.97,0.46,0.13,
+"Cranberries, cooked or canned",Snack,100,159,40.4,0.9,0.15,moderate
+"Dewberries, raw",Snack,100,43,9.61,1.39,0.49,
+"Huckleberries, raw",Snack,100,57,14.49,0.74,0.33,
+"Loganberries, raw",Snack,100,55,13.02,1.52,0.31,
+"Loganberries, frozen",Snack,100,55,13.02,1.52,0.31,
+"Mulberries, raw",Snack,100,43,9.8,1.44,0.39,
+"Raspberries, raw",Snack,100,52,11.94,1.2,0.65,
+"Raspberries, black, raw",Snack,100,52,11.94,1.2,0.65,
+"Raspberries, red, raw",Snack,100,52,11.94,1.2,0.65,
+"Strawberries, raw",Snack,100,32,7.68,0.67,0.3,
+"Youngberries, raw",Snack,100,43,9.61,1.39,0.49,
+"Asparagus, raw",Lauk,100,20,3.88,2.2,0.12,
+Kimchi,Lauk,100,15,2.4,1.1,0.5,
+Almond oil,Lauk,100,884,0,0,100,
+Corn oil,Lauk,100,900,0,0,100,
+Cottonseed oil,Lauk,100,884,0,0,100,
+Flaxseed oil,Lauk,100,884,0,0.11,99.98,
+Olive oil,Lauk,100,884,0,0,100,low
+Peanut oil,Lauk,100,884,0,0,100,
+Rapeseed oil,Lauk,100,884,0,0,100,
+Canola and soybean oil,Lauk,100,884,0,0,100,
+"Canola, soybean and sunflower oil",Lauk,100,884,0,0,100,
+Safflower oil,Lauk,100,884,0,0,100,
+Soybean oil,Lauk,100,884,0,0,100,
+Soybean and sunflower oil,Lauk,100,884,0,0,100,
+Sunflower oil,Lauk,100,884,0,0,100,
+Walnut oil,Lauk,100,884,0,0,100,
+"Mayonnaise, light",Lauk,100,238,9.23,0.37,22.22,low
+"Mayonnaise, reduced fat,  with olive oil",Lauk,100,361,0,0.37,40,low
+"Mayonnaise-type salad dressing, light",Lauk,100,158,16.4,0.65,10,low
+Marshmallow,Snack,100,318,81.3,1.8,0.2,
+"Coffee, Latte",Minuman,100,43,4.27,2.76,1.68,
+"Coffee, Latte, nonfat",Minuman,100,30,4.4,2.82,0.1,
+"Coffee, Latte, with non-dairy milk",Minuman,100,35,5.07,1.28,1.07,
+Mojito,Minuman,100,61,2.46,0.09,0.02,
+Whiskey sour,Minuman,100,123,16.11,0.08,0.08,moderate
+Whiskey and soda,Minuman,100,59,0,0,0,moderate
+Whiskey and water,Minuman,100,59,0,0,0,moderate
+Whiskey and cola,Minuman,100,89,7.8,0,0.19,moderate
+Whiskey and diet cola,Minuman,100,60,0.22,0.08,0.02,moderate
+Whiskey and ginger ale,Minuman,100,83,6.59,0,0,moderate
+Rum and cola,Minuman,100,89,7.8,0,0.19,moderate
+Rum and diet cola,Minuman,100,60,0.22,0.08,0.02,moderate
+Pina Colada,Minuman,100,151,19.5,0.36,2.13,moderate
+Brandy and cola,Minuman,100,89,7.8,0,0.19,moderate
+Vodka and soda,Minuman,100,59,0,0,0,moderate
+Vodka and lemonade,Minuman,100,93,9.02,0,0,moderate
+Vodka and cola,Minuman,100,89,7.8,0,0.19,moderate
+Vodka and diet cola,Minuman,100,60,0.22,0.08,0.02,moderate
+Vodka and energy drink,Minuman,100,90,7.7,0.35,0,moderate
+Vodka and water,Minuman,100,59,0,0,0,moderate
+Vodka and tonic,Minuman,100,84,6.57,0,0,moderate
+"Wine, table, red",Minuman,100,85,2.61,0.07,0,moderate
+"Wine, table, white",Minuman,100,82,2.6,0.07,0,moderate
+"Wine, table, rose",Minuman,100,83,3.8,0.36,0,moderate
+"Wine, rice",Minuman,100,134,5,0.5,0,moderate
+"Wine, dessert, sweet",Minuman,100,160,13.69,0.2,0,moderate
+"Wine, light",Minuman,100,49,1.17,0.07,0,moderate
+Wine cooler,Minuman,100,68,10.07,0,0,moderate
+Whiskey,Minuman,100,231,0,0,0,moderate
+Scotch,Minuman,100,231,0,0,0,moderate
+Gin,Minuman,100,231,0,0,0,moderate
+Rum,Minuman,100,231,0,0,0,moderate
+Rum cooler,Minuman,100,68,10.07,0,0,moderate
+Vodka,Minuman,100,231,0,0,0,moderate
+Tequila,Minuman,100,231,0,0,0,moderate
+Markisa,Minuman,100,97,23.38,2.2,0.7,low
+"Kerang (Clams), raw",Lauk,100,86,3.57,14.67,0.96,low
+Lontong (rice cake),Lauk,100,392,81.1,7.1,4.3,high
