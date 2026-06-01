@@ -11,30 +11,28 @@ import os
 # Mendapatkan path absolut direktori script ini dijalankan
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# ── SISTEM PENCARIAN LOGO DINAMIS (SELF-HEALING PATH) ─────────────────────────
-logo_options = [
-    "polaku_logo_icon.png",
-    "../polaku_logo_icon.png",
-    "dashboard/polaku_logo_icon.png"
-]
-LOGO_PATH = None
-for opt in logo_options:
-    # Cek relatif terhadap direktori script saat ini
-    abs_path = os.path.abspath(os.path.join(CURRENT_DIR, opt))
-    if os.path.exists(abs_path):
-        LOGO_PATH = abs_path
-        break
-    # Cek langsung relatif terhadap Working Directory saat ini (CWD)
-    if os.path.exists(opt):
-        LOGO_PATH = os.path.abspath(opt)
-        break
+# ── SISTEM DETEKSI FILE GLOBAL (RECURSIVE SEARCH) ─────────────────────────────
+def find_file_globally(filename):
+    # Cari di sekitar direktori script berjalan
+    for root, dirs, files in os.walk(CURRENT_DIR):
+        # Lewati folder virtual environment dan cache untuk efisiensi
+        dirs[:] = [d for d in dirs if not d.startswith('.') and d not in ('env', 'venv', '__pycache__', 'node_modules')]
+        if filename in files:
+            return os.path.join(root, filename)
+            
+    # Cari di seluruh working directory (CWD) Streamlit Cloud
+    for root, dirs, files in os.walk(os.getcwd()):
+        dirs[:] = [d for d in dirs if not d.startswith('.') and d not in ('env', 'venv', '__pycache__', 'node_modules')]
+        if filename in files:
+            return os.path.join(root, filename)
+            
+    return None
 
-if LOGO_PATH is None:
-    # Fallback default path jika tidak ditemukan sama sekali di lingkungan lokal/cloud
-    LOGO_PATH = os.path.abspath(os.path.join(CURRENT_DIR, "..", "polaku_logo_icon.png"))
+# ── INSTALASI LOGO ────────────────────────────────────────────────────────────
+LOGO_PATH = find_file_globally("polaku_logo_icon.png")
 
 def get_base64_image(img_path):
-    if os.path.exists(img_path):
+    if img_path and os.path.exists(img_path):
         with open(img_path, "rb") as f:
             return base64.b64encode(f.read()).decode()
     return None
@@ -52,6 +50,97 @@ else:
     logo_html_footer = "🍽️ "
     page_icon_val = "🍽️"
 
+# ── SISTEM PEMBACAAN DATASET DINAMIS & DIAGNOSTIK ─────────────────────────────
+@st.cache_data
+def load_data_from_path(resolved_path):
+    df = pd.read_csv(resolved_path)
+    df.columns = df.columns.str.strip()
+    return df
+
+def get_directory_tree(startpath, max_depth=3):
+    tree = []
+    start_basename = os.path.basename(startpath.rstrip(os.sep))
+    tree.append(f"📁 {start_basename if start_basename else 'root'}/")
+    for root, dirs, files in os.walk(startpath):
+        dirs[:] = [d for d in dirs if not d.startswith('.') and d not in ('env', 'venv', '__pycache__', 'node_modules')]
+        depth = root.replace(startpath, '').count(os.sep)
+        if depth > max_depth:
+            continue
+        indent = ' ' * 4 * depth
+        if depth > 0:
+            tree.append(f"{indent}📁 {os.path.basename(root)}/")
+        subindent = ' ' * 4 * (depth + 1)
+        for f in files:
+            if not f.startswith('.'):
+                tree.append(f"{subindent}📄 {f}")
+    return '\n'.join(tree)
+
+# Mencoba memuat dataset secara dinamis
+dataset_path = find_file_globally("dataset_makanan_siap_model.csv")
+df = None
+
+# Jika user telah mengunggah file secara manual via web UI, gunakan file tersebut
+if 'uploaded_df' in st.session_state:
+    df = st.session_state['uploaded_df']
+elif dataset_path:
+    try:
+        df = load_data_from_path(dataset_path)
+    except Exception as e:
+        st.error(f"Gagal membaca dataset yang ditemukan: {e}")
+
+# ── DIAGNOSTIC PAGE (Renders only if dataset is missing) ──────────────────────
+if df is None:
+    st.set_page_config(page_title="PolaKu - Diagnostic Mode", page_icon="⚠️", layout="wide")
+    
+    st.markdown("""
+    <div style="text-align:center; padding: 40px 0 20px 0;">
+        <h1 style="color:#fd7c7c; font-size:3rem; font-weight:700;">⚠️ Berkas Dataset Tidak Ditemukan</h1>
+        <p style="color:#8888bb; font-size:1.2rem; max-width:700px; margin: 0 auto; line-height:1.6;">
+            Sistem pencarian cerdas PolaKu tidak dapat menemukan berkas <code>dataset_makanan_siap_model.csv</code> di dalam workspace server Anda saat ini.
+        </p>
+    </div>
+    """, unsafe_allow_html=True)
+    
+    col_err_a, col_err_b = st.columns(2)
+    
+    with col_err_a:
+        st.subheader("💡 Solusi Instan: Unggah Manual")
+        st.info("Anda tidak perlu melakukan redeploy. Cukup unggah berkas CSV Anda di bawah ini untuk mengaktifkan dashboard saat ini secara langsung!")
+        
+        uploaded_file = st.file_uploader("Pilih berkas dataset_makanan_siap_model.csv", type=["csv"])
+        if uploaded_file is not None:
+            try:
+                uploaded_df = pd.read_csv(uploaded_file)
+                uploaded_df.columns = uploaded_df.columns.str.strip()
+                st.session_state['uploaded_df'] = uploaded_df
+                st.success("Dataset berhasil diunggah! Membuka dashboard...")
+                st.rerun()
+            except Exception as ex:
+                st.error(f"Gagal memproses file unggahan: {ex}")
+                
+        st.markdown("""
+        <div style="background-color: #1e1e38; border-radius: 12px; padding: 20px; border: 1px solid #3d3d7a; margin-top: 20px;">
+            <h4 style="color:#7c83fd; margin-top:0;">🛠️ Cara Memperbaiki Secara Permanen di GitHub:</h4>
+            <ol style="color:#c0c0e0; font-size:0.9rem; line-height:1.6; padding-left:20px;">
+                <li>Pastikan folder <code>data/</code> yang berisi berkas <code>dataset_makanan_siap_model.csv</code> telah di-commit dan di-push ke repository Anda.</li>
+                <li>Periksa penulisan huruf besar/kecil (case-sensitivity) pada nama berkas. Sistem Linux pada hosting Streamlit bersifat case-sensitive.</li>
+                <li>Setelah melakukan push di GitHub, klik tombol <strong>Manage app</strong> di pojok kanan bawah Streamlit Cloud lalu pilih <strong>Reboot app</strong> untuk membersihkan cache.</li>
+            </ol>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with col_err_b:
+        st.subheader("📁 Peta Struktur Berkas Server (Diagnostic Tree)")
+        st.markdown("Gunakan peta direktori server di bawah ini untuk melacak di mana letak berkas Anda berada:")
+        
+        # Mendapatkan struktur pohon direktori di Streamlit Cloud
+        root_path = os.getcwd()
+        dir_tree_output = get_directory_tree(root_path, max_depth=3)
+        st.code(dir_tree_output, language="text")
+        
+    st.stop() # Hentikan eksekusi dashboard utama sampai data tersedia
+
+# ── LOAD DASHBOARD UTAMA JIKA DATA TERSEDIA ────────────────────────────────────
 st.set_page_config(
     page_title="PolaKu Food AI Dataset Dashboard",
     page_icon=page_icon_val,
@@ -161,36 +250,6 @@ PLOTLY_THEME = dict(
     xaxis=dict(gridcolor="#2d2d5b", zerolinecolor="#3d3d7a", color="#9999cc"),
     yaxis=dict(gridcolor="#2d2d5b", zerolinecolor="#3d3d7a", color="#9999cc"),
 )
-
-# ── SISTEM PEMBACAAN DATASET DINAMIS (SELF-HEALING PATH) ─────────────────────
-@st.cache_data
-def load_data():
-    dataset_options = [
-        "data/dataset_makanan_siap_model.csv",
-        "dashboard/data/dataset_makanan_siap_model.csv",
-        "../data/dataset_makanan_siap_model.csv"
-    ]
-    resolved_path = None
-    for opt in dataset_options:
-        # Cek relatif terhadap directory script
-        abs_path = os.path.abspath(os.path.join(CURRENT_DIR, opt))
-        if os.path.exists(abs_path):
-            resolved_path = abs_path
-            break
-        # Cek langsung relatif terhadap CWD (working directory Streamlit Cloud)
-        if os.path.exists(opt):
-            resolved_path = os.path.abspath(opt)
-            break
-            
-    if resolved_path is None:
-        # Fallback agar tetap memunculkan exception default pandas jika file tidak ada sama sekali
-        resolved_path = "data/dataset_makanan_siap_model.csv"
-        
-    df = pd.read_csv(resolved_path)
-    df.columns = df.columns.str.strip()
-    return df
-
-df = load_data()
 
 with st.sidebar:
     st.markdown(f"## {logo_html_sidebar} PolaKu Dashboard", unsafe_allow_html=True)
